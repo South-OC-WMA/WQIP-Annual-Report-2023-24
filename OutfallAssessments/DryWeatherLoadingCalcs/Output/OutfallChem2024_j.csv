@@ -1,0 +1,1368 @@
+JURISDICTI3,Sample Type,Parameter,ResultJuris,Units
+MISSION VIEJO,Total,"2,4'-DDD",1,ng/L
+LAKE FOREST,Total,"2,4'-DDD",1,ng/L
+RANCHO SANTA MARGARITA,Total,"2,4'-DDD",1,ng/L
+ORANGE CO,Total,"2,4'-DDD",1,ng/L
+LAGUNA NIGUEL,Total,"2,4'-DDD",1,ng/L
+ALISO VIEJO,Total,"2,4'-DDD",1,ng/L
+LAGUNA HILLS,Total,"2,4'-DDD",1,ng/L
+LAGUNA WOODS,Total,"2,4'-DDD",1,ng/L
+DANA POINT,Total,"2,4'-DDD",1,ng/L
+SAN JUAN CAPISTRANO,Total,"2,4'-DDD",1,ng/L
+LAGUNA BEACH,Total,"2,4'-DDD",1,ng/L
+SAN CLEMENTE,Total,"2,4'-DDD",1,ng/L
+MISSION VIEJO,Total,"2,4'-DDE",1,ng/L
+LAKE FOREST,Total,"2,4'-DDE",1,ng/L
+RANCHO SANTA MARGARITA,Total,"2,4'-DDE",1,ng/L
+ORANGE CO,Total,"2,4'-DDE",1,ng/L
+LAGUNA NIGUEL,Total,"2,4'-DDE",1,ng/L
+ALISO VIEJO,Total,"2,4'-DDE",1,ng/L
+LAGUNA HILLS,Total,"2,4'-DDE",1,ng/L
+LAGUNA WOODS,Total,"2,4'-DDE",1,ng/L
+DANA POINT,Total,"2,4'-DDE",1,ng/L
+SAN JUAN CAPISTRANO,Total,"2,4'-DDE",1,ng/L
+LAGUNA BEACH,Total,"2,4'-DDE",1,ng/L
+SAN CLEMENTE,Total,"2,4'-DDE",1,ng/L
+MISSION VIEJO,Total,"2,4'-DDT",1,ng/L
+LAKE FOREST,Total,"2,4'-DDT",1,ng/L
+RANCHO SANTA MARGARITA,Total,"2,4'-DDT",1,ng/L
+ORANGE CO,Total,"2,4'-DDT",1,ng/L
+LAGUNA NIGUEL,Total,"2,4'-DDT",1,ng/L
+ALISO VIEJO,Total,"2,4'-DDT",1,ng/L
+LAGUNA HILLS,Total,"2,4'-DDT",1,ng/L
+LAGUNA WOODS,Total,"2,4'-DDT",1,ng/L
+DANA POINT,Total,"2,4'-DDT",1,ng/L
+SAN JUAN CAPISTRANO,Total,"2,4'-DDT",1,ng/L
+LAGUNA BEACH,Total,"2,4'-DDT",1,ng/L
+SAN CLEMENTE,Total,"2,4'-DDT",1,ng/L
+MISSION VIEJO,Total,"4,4'-DDD",1,ng/L
+LAKE FOREST,Total,"4,4'-DDD",1,ng/L
+RANCHO SANTA MARGARITA,Total,"4,4'-DDD",1,ng/L
+ORANGE CO,Total,"4,4'-DDD",1,ng/L
+LAGUNA NIGUEL,Total,"4,4'-DDD",1,ng/L
+ALISO VIEJO,Total,"4,4'-DDD",1,ng/L
+LAGUNA HILLS,Total,"4,4'-DDD",1,ng/L
+LAGUNA WOODS,Total,"4,4'-DDD",1,ng/L
+DANA POINT,Total,"4,4'-DDD",1,ng/L
+SAN JUAN CAPISTRANO,Total,"4,4'-DDD",1,ng/L
+LAGUNA BEACH,Total,"4,4'-DDD",1,ng/L
+SAN CLEMENTE,Total,"4,4'-DDD",1,ng/L
+MISSION VIEJO,Total,"4,4'-DDE",1,ng/L
+LAKE FOREST,Total,"4,4'-DDE",1,ng/L
+RANCHO SANTA MARGARITA,Total,"4,4'-DDE",1,ng/L
+ORANGE CO,Total,"4,4'-DDE",1,ng/L
+LAGUNA NIGUEL,Total,"4,4'-DDE",1.13,ng/L
+ALISO VIEJO,Total,"4,4'-DDE",1.13,ng/L
+LAGUNA HILLS,Total,"4,4'-DDE",1,ng/L
+LAGUNA WOODS,Total,"4,4'-DDE",1,ng/L
+DANA POINT,Total,"4,4'-DDE",1,ng/L
+SAN JUAN CAPISTRANO,Total,"4,4'-DDE",1,ng/L
+LAGUNA BEACH,Total,"4,4'-DDE",1,ng/L
+SAN CLEMENTE,Total,"4,4'-DDE",1,ng/L
+MISSION VIEJO,Total,"4,4'-DDT",1,ng/L
+LAKE FOREST,Total,"4,4'-DDT",1,ng/L
+RANCHO SANTA MARGARITA,Total,"4,4'-DDT",1,ng/L
+ORANGE CO,Total,"4,4'-DDT",1,ng/L
+LAGUNA NIGUEL,Total,"4,4'-DDT",1,ng/L
+ALISO VIEJO,Total,"4,4'-DDT",1,ng/L
+LAGUNA HILLS,Total,"4,4'-DDT",1,ng/L
+LAGUNA WOODS,Total,"4,4'-DDT",1,ng/L
+DANA POINT,Total,"4,4'-DDT",1,ng/L
+SAN JUAN CAPISTRANO,Total,"4,4'-DDT",1,ng/L
+LAGUNA BEACH,Total,"4,4'-DDT",1,ng/L
+SAN CLEMENTE,Total,"4,4'-DDT",1.416,ng/L
+MISSION VIEJO,Total,Acenaphthene,2.5,ng/L
+LAKE FOREST,Total,Acenaphthene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Acenaphthene,2.5,ng/L
+ORANGE CO,Total,Acenaphthene,2.5,ng/L
+LAGUNA NIGUEL,Total,Acenaphthene,2.5,ng/L
+ALISO VIEJO,Total,Acenaphthene,2.5,ng/L
+LAGUNA HILLS,Total,Acenaphthene,2.5,ng/L
+LAGUNA WOODS,Total,Acenaphthene,2.5,ng/L
+DANA POINT,Total,Acenaphthene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Acenaphthene,2.5,ng/L
+LAGUNA BEACH,Total,Acenaphthene,2.5,ng/L
+SAN CLEMENTE,Total,Acenaphthene,2.5,ng/L
+MISSION VIEJO,Total,Acenaphthylene,2.5,ng/L
+LAKE FOREST,Total,Acenaphthylene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Acenaphthylene,2.5,ng/L
+ORANGE CO,Total,Acenaphthylene,2.5,ng/L
+LAGUNA NIGUEL,Total,Acenaphthylene,2.5,ng/L
+ALISO VIEJO,Total,Acenaphthylene,2.5,ng/L
+LAGUNA HILLS,Total,Acenaphthylene,2.5,ng/L
+LAGUNA WOODS,Total,Acenaphthylene,2.5,ng/L
+DANA POINT,Total,Acenaphthylene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Acenaphthylene,2.5,ng/L
+LAGUNA BEACH,Total,Acenaphthylene,2.5,ng/L
+SAN CLEMENTE,Total,Acenaphthylene,2.5,ng/L
+MISSION VIEJO,Total,Aldrin,2.5,ng/L
+LAKE FOREST,Total,Aldrin,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Aldrin,2.5,ng/L
+ORANGE CO,Total,Aldrin,2.5,ng/L
+LAGUNA NIGUEL,Total,Aldrin,2.5,ng/L
+ALISO VIEJO,Total,Aldrin,2.5,ng/L
+LAGUNA HILLS,Total,Aldrin,2.5,ng/L
+LAGUNA WOODS,Total,Aldrin,2.5,ng/L
+DANA POINT,Total,Aldrin,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Aldrin,2.5,ng/L
+LAGUNA BEACH,Total,Aldrin,2.5,ng/L
+SAN CLEMENTE,Total,Aldrin,2.5,ng/L
+MISSION VIEJO,Total,BHC-alpha,2.5,ng/L
+LAKE FOREST,Total,BHC-alpha,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,BHC-alpha,2.5,ng/L
+ORANGE CO,Total,BHC-alpha,2.5,ng/L
+LAGUNA NIGUEL,Total,BHC-alpha,2.5,ng/L
+ALISO VIEJO,Total,BHC-alpha,2.5,ng/L
+LAGUNA HILLS,Total,BHC-alpha,2.5,ng/L
+LAGUNA WOODS,Total,BHC-alpha,2.5,ng/L
+DANA POINT,Total,BHC-alpha,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,BHC-alpha,2.5,ng/L
+LAGUNA BEACH,Total,BHC-alpha,2.5,ng/L
+SAN CLEMENTE,Total,BHC-alpha,2.5,ng/L
+MISSION VIEJO,Total,alpha Chlordane,1,ng/L
+LAKE FOREST,Total,alpha Chlordane,1,ng/L
+RANCHO SANTA MARGARITA,Total,alpha Chlordane,1,ng/L
+ORANGE CO,Total,alpha Chlordane,1,ng/L
+LAGUNA NIGUEL,Total,alpha Chlordane,1,ng/L
+ALISO VIEJO,Total,alpha Chlordane,1,ng/L
+LAGUNA HILLS,Total,alpha Chlordane,1,ng/L
+LAGUNA WOODS,Total,alpha Chlordane,1,ng/L
+DANA POINT,Total,alpha Chlordane,1,ng/L
+SAN JUAN CAPISTRANO,Total,alpha Chlordane,1,ng/L
+LAGUNA BEACH,Total,alpha Chlordane,1,ng/L
+SAN CLEMENTE,Total,alpha Chlordane,1,ng/L
+MISSION VIEJO,Total,"Ammonia, as Nitrogen",0.171875,mg/L
+LAKE FOREST,Total,"Ammonia, as Nitrogen",0.25833333333333336,mg/L
+RANCHO SANTA MARGARITA,Total,"Ammonia, as Nitrogen",0.08375,mg/L
+ORANGE CO,Total,"Ammonia, as Nitrogen",0.6461764705882354,mg/L
+LAGUNA NIGUEL,Total,"Ammonia, as Nitrogen",0.13653846153846153,mg/L
+ALISO VIEJO,Total,"Ammonia, as Nitrogen",0.4681818181818182,mg/L
+LAGUNA HILLS,Total,"Ammonia, as Nitrogen",0.33,mg/L
+LAGUNA WOODS,Total,"Ammonia, as Nitrogen",0.33,mg/L
+DANA POINT,Total,"Ammonia, as Nitrogen",0.06,mg/L
+SAN JUAN CAPISTRANO,Total,"Ammonia, as Nitrogen",0.73,mg/L
+LAGUNA BEACH,Total,"Ammonia, as Nitrogen",0.05,mg/L
+SAN CLEMENTE,Total,"Ammonia, as Nitrogen",0.228,mg/L
+MISSION VIEJO,Total,Anthracene,2.5,ng/L
+LAKE FOREST,Total,Anthracene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Anthracene,2.5,ng/L
+ORANGE CO,Total,Anthracene,2.5,ng/L
+LAGUNA NIGUEL,Total,Anthracene,2.5,ng/L
+ALISO VIEJO,Total,Anthracene,2.5,ng/L
+LAGUNA HILLS,Total,Anthracene,2.5,ng/L
+LAGUNA WOODS,Total,Anthracene,2.5,ng/L
+DANA POINT,Total,Anthracene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Anthracene,2.5,ng/L
+LAGUNA BEACH,Total,Anthracene,2.5,ng/L
+SAN CLEMENTE,Total,Anthracene,2.5,ng/L
+MISSION VIEJO,Total,"Arsenic, Total",4.804166666666666,ug/L
+MISSION VIEJO,Dissolved,"Arsenic, Total",4.804166666666666,ug/L
+LAKE FOREST,Total,"Arsenic, Total",5.7,ug/L
+LAKE FOREST,Dissolved,"Arsenic, Total",5.7,ug/L
+RANCHO SANTA MARGARITA,Total,"Arsenic, Total",3.4899999999999998,ug/L
+RANCHO SANTA MARGARITA,Dissolved,"Arsenic, Total",3.4899999999999998,ug/L
+ORANGE CO,Total,"Arsenic, Total",4.433666666666666,ug/L
+ORANGE CO,Dissolved,"Arsenic, Total",4.433666666666666,ug/L
+LAGUNA NIGUEL,Total,"Arsenic, Total",2.85,ug/L
+ALISO VIEJO,Total,"Arsenic, Total",8.50625,ug/L
+LAGUNA NIGUEL,Dissolved,"Arsenic, Total",2.85,ug/L
+ALISO VIEJO,Dissolved,"Arsenic, Total",8.50625,ug/L
+LAGUNA HILLS,Total,"Arsenic, Total",6.025,ug/L
+LAGUNA WOODS,Total,"Arsenic, Total",6.025,ug/L
+LAGUNA HILLS,Dissolved,"Arsenic, Total",6.025,ug/L
+LAGUNA WOODS,Dissolved,"Arsenic, Total",6.025,ug/L
+DANA POINT,Total,"Arsenic, Total",1.6875,ug/L
+SAN JUAN CAPISTRANO,Total,"Arsenic, Total",1.45625,ug/L
+DANA POINT,Dissolved,"Arsenic, Total",1.6875,ug/L
+SAN JUAN CAPISTRANO,Dissolved,"Arsenic, Total",1.45625,ug/L
+LAGUNA BEACH,Total,"Arsenic, Total",2,ug/L
+LAGUNA BEACH,Dissolved,"Arsenic, Total",2,ug/L
+SAN CLEMENTE,Total,"Arsenic, Total",4.525,ug/L
+SAN CLEMENTE,Dissolved,"Arsenic, Total",4.525,ug/L
+MISSION VIEJO,Total,Azinphos Methyl,5,ng/L
+LAKE FOREST,Total,Azinphos Methyl,5,ng/L
+RANCHO SANTA MARGARITA,Total,Azinphos Methyl,5,ng/L
+ORANGE CO,Total,Azinphos Methyl,5,ng/L
+LAGUNA NIGUEL,Total,Azinphos Methyl,5,ng/L
+ALISO VIEJO,Total,Azinphos Methyl,5,ng/L
+LAGUNA HILLS,Total,Azinphos Methyl,5,ng/L
+LAGUNA WOODS,Total,Azinphos Methyl,5,ng/L
+DANA POINT,Total,Azinphos Methyl,5,ng/L
+SAN JUAN CAPISTRANO,Total,Azinphos Methyl,5,ng/L
+LAGUNA BEACH,Total,Azinphos Methyl,5,ng/L
+SAN CLEMENTE,Total,Azinphos Methyl,5,ng/L
+MISSION VIEJO,Total,Benz[a]anthracene,2.5,ng/L
+LAKE FOREST,Total,Benz[a]anthracene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Benz[a]anthracene,5.2,ng/L
+ORANGE CO,Total,Benz[a]anthracene,3.9382352941176473,ng/L
+LAGUNA NIGUEL,Total,Benz[a]anthracene,4.322222222222222,ng/L
+ALISO VIEJO,Total,Benz[a]anthracene,4.425,ng/L
+LAGUNA HILLS,Total,Benz[a]anthracene,2.5,ng/L
+LAGUNA WOODS,Total,Benz[a]anthracene,2.5,ng/L
+DANA POINT,Total,Benz[a]anthracene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Benz[a]anthracene,2.5,ng/L
+LAGUNA BEACH,Total,Benz[a]anthracene,2.5,ng/L
+SAN CLEMENTE,Total,Benz[a]anthracene,2.5,ng/L
+MISSION VIEJO,Total,Benzo[a]pyrene,2.5,ng/L
+LAKE FOREST,Total,Benzo[a]pyrene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Benzo[a]pyrene,2.5,ng/L
+ORANGE CO,Total,Benzo[a]pyrene,2.5,ng/L
+LAGUNA NIGUEL,Total,Benzo[a]pyrene,3.7,ng/L
+ALISO VIEJO,Total,Benzo[a]pyrene,3.7,ng/L
+LAGUNA HILLS,Total,Benzo[a]pyrene,2.5,ng/L
+LAGUNA WOODS,Total,Benzo[a]pyrene,2.5,ng/L
+DANA POINT,Total,Benzo[a]pyrene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Benzo[a]pyrene,2.5,ng/L
+LAGUNA BEACH,Total,Benzo[a]pyrene,2.5,ng/L
+SAN CLEMENTE,Total,Benzo[a]pyrene,2.5,ng/L
+MISSION VIEJO,Total,Benzo[b]fluoranthene,2.5,ng/L
+LAKE FOREST,Total,Benzo[b]fluoranthene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Benzo[b]fluoranthene,9.625,ng/L
+ORANGE CO,Total,Benzo[b]fluoranthene,6.670588235294118,ng/L
+LAGUNA NIGUEL,Total,Benzo[b]fluoranthene,5.211111111111111,ng/L
+ALISO VIEJO,Total,Benzo[b]fluoranthene,6.33,ng/L
+LAGUNA HILLS,Total,Benzo[b]fluoranthene,2.5,ng/L
+LAGUNA WOODS,Total,Benzo[b]fluoranthene,2.5,ng/L
+DANA POINT,Total,Benzo[b]fluoranthene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Benzo[b]fluoranthene,2.5,ng/L
+LAGUNA BEACH,Total,Benzo[b]fluoranthene,2.5,ng/L
+SAN CLEMENTE,Total,Benzo[b]fluoranthene,2.5,ng/L
+MISSION VIEJO,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+RANCHO SANTA MARGARITA,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+ORANGE CO,Total,"Benzo(g,h,i)perylene",2.8525,ng/L
+LAGUNA NIGUEL,Total,"Benzo(g,h,i)perylene",7.89,ng/L
+ALISO VIEJO,Total,"Benzo(g,h,i)perylene",7.915,ng/L
+LAGUNA HILLS,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+LAGUNA WOODS,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+LAKE FOREST,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+DANA POINT,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+SAN JUAN CAPISTRANO,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+LAGUNA BEACH,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+SAN CLEMENTE,Total,"Benzo(g,h,i)perylene",2.5,ng/L
+MISSION VIEJO,Total,Benzo(k)fluoranthene,2.5,ng/L
+LAKE FOREST,Total,Benzo(k)fluoranthene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Benzo(k)fluoranthene,5.2875,ng/L
+ORANGE CO,Total,Benzo(k)fluoranthene,4.623529411764706,ng/L
+LAGUNA NIGUEL,Total,Benzo(k)fluoranthene,4.644444444444445,ng/L
+ALISO VIEJO,Total,Benzo(k)fluoranthene,5.8100000000000005,ng/L
+LAGUNA HILLS,Total,Benzo(k)fluoranthene,2.5,ng/L
+LAGUNA WOODS,Total,Benzo(k)fluoranthene,2.5,ng/L
+DANA POINT,Total,Benzo(k)fluoranthene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Benzo(k)fluoranthene,2.5,ng/L
+LAGUNA BEACH,Total,Benzo(k)fluoranthene,2.5,ng/L
+SAN CLEMENTE,Total,Benzo(k)fluoranthene,2.5,ng/L
+MISSION VIEJO,Total,BHC-beta,2.5,ng/L
+LAKE FOREST,Total,BHC-beta,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,BHC-beta,2.5,ng/L
+ORANGE CO,Total,BHC-beta,2.5,ng/L
+LAGUNA NIGUEL,Total,BHC-beta,2.5,ng/L
+ALISO VIEJO,Total,BHC-beta,2.5,ng/L
+LAGUNA HILLS,Total,BHC-beta,2.5,ng/L
+LAGUNA WOODS,Total,BHC-beta,2.5,ng/L
+DANA POINT,Total,BHC-beta,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,BHC-beta,2.5,ng/L
+LAGUNA BEACH,Total,BHC-beta,2.5,ng/L
+SAN CLEMENTE,Total,BHC-beta,2.5,ng/L
+MISSION VIEJO,Total,Biphenyl,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Biphenyl,2.5,ng/L
+ORANGE CO,Total,Biphenyl,2.5,ng/L
+LAGUNA NIGUEL,Total,Biphenyl,2.5,ng/L
+ALISO VIEJO,Total,Biphenyl,2.5,ng/L
+LAGUNA HILLS,Total,Biphenyl,2.5,ng/L
+LAGUNA WOODS,Total,Biphenyl,2.5,ng/L
+LAKE FOREST,Total,Biphenyl,2.5,ng/L
+DANA POINT,Total,Biphenyl,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Biphenyl,2.5,ng/L
+LAGUNA BEACH,Total,Biphenyl,2.5,ng/L
+SAN CLEMENTE,Total,Biphenyl,2.5,ng/L
+MISSION VIEJO,Total,Bolstar (Sulprofos),2,ng/L
+LAKE FOREST,Total,Bolstar (Sulprofos),2,ng/L
+RANCHO SANTA MARGARITA,Total,Bolstar (Sulprofos),2,ng/L
+ORANGE CO,Total,Bolstar (Sulprofos),2,ng/L
+LAGUNA NIGUEL,Total,Bolstar (Sulprofos),2,ng/L
+ALISO VIEJO,Total,Bolstar (Sulprofos),2,ng/L
+LAGUNA HILLS,Total,Bolstar (Sulprofos),2,ng/L
+LAGUNA WOODS,Total,Bolstar (Sulprofos),2,ng/L
+DANA POINT,Total,Bolstar (Sulprofos),2,ng/L
+SAN JUAN CAPISTRANO,Total,Bolstar (Sulprofos),2,ng/L
+LAGUNA BEACH,Total,Bolstar (Sulprofos),2,ng/L
+SAN CLEMENTE,Total,Bolstar (Sulprofos),2,ng/L
+MISSION VIEJO,Total,Cadmium,5.296923076923077,ug/L
+MISSION VIEJO,Dissolved,Cadmium,5.296923076923077,ug/L
+LAKE FOREST,Total,Cadmium,0.33699999999999997,ug/L
+LAKE FOREST,Dissolved,Cadmium,0.33699999999999997,ug/L
+RANCHO SANTA MARGARITA,Total,Cadmium,3.15,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Cadmium,3.15,ug/L
+ORANGE CO,Total,Cadmium,4.970625,ug/L
+ORANGE CO,Dissolved,Cadmium,4.970625,ug/L
+LAGUNA NIGUEL,Total,Cadmium,2.4355882352941176,ug/L
+ALISO VIEJO,Total,Cadmium,1.3378124999999998,ug/L
+LAGUNA NIGUEL,Dissolved,Cadmium,2.4355882352941176,ug/L
+ALISO VIEJO,Dissolved,Cadmium,1.3378124999999998,ug/L
+LAGUNA HILLS,Total,Cadmium,0.4725,ug/L
+LAGUNA WOODS,Total,Cadmium,0.4725,ug/L
+LAGUNA HILLS,Dissolved,Cadmium,0.4725,ug/L
+LAGUNA WOODS,Dissolved,Cadmium,0.4725,ug/L
+DANA POINT,Total,Cadmium,1.768076923076923,ug/L
+SAN JUAN CAPISTRANO,Total,Cadmium,0.37454545454545457,ug/L
+DANA POINT,Dissolved,Cadmium,1.768076923076923,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Cadmium,0.37454545454545457,ug/L
+LAGUNA BEACH,Total,Cadmium,0.1,ug/L
+LAGUNA BEACH,Dissolved,Cadmium,0.1,ug/L
+SAN CLEMENTE,Total,Cadmium,19.309375,ug/L
+SAN CLEMENTE,Dissolved,Cadmium,19.309375,ug/L
+MISSION VIEJO,Total,Calcium,330.6666666666667,ug/L
+LAKE FOREST,Total,Calcium,247.25,ug/L
+RANCHO SANTA MARGARITA,Total,Calcium,160.24285714285713,ug/L
+ORANGE CO,Total,Calcium,222.66333333333333,ug/L
+LAGUNA NIGUEL,Total,Calcium,249.5875,ug/L
+ALISO VIEJO,Total,Calcium,225.21875,ug/L
+LAGUNA HILLS,Total,Calcium,270.5,ug/L
+LAGUNA WOODS,Total,Calcium,270.5,ug/L
+DANA POINT,Total,Calcium,222.16666666666666,ug/L
+SAN JUAN CAPISTRANO,Total,Calcium,217.05,ug/L
+LAGUNA BEACH,Total,Calcium,401,ug/L
+SAN CLEMENTE,Total,Calcium,288.625,ug/L
+MISSION VIEJO,Total,Chloride,357.5,mg/L
+LAKE FOREST,Total,Chloride,330,mg/L
+RANCHO SANTA MARGARITA,Total,Chloride,209.28571428571428,mg/L
+ORANGE CO,Total,Chloride,424.3333333333333,mg/L
+LAGUNA NIGUEL,Total,Chloride,506.25,mg/L
+ALISO VIEJO,Total,Chloride,359.375,mg/L
+LAGUNA HILLS,Total,Chloride,395,mg/L
+LAGUNA WOODS,Total,Chloride,395,mg/L
+DANA POINT,Total,Chloride,778.3333333333334,mg/L
+SAN JUAN CAPISTRANO,Total,Chloride,555,mg/L
+LAGUNA BEACH,Total,Chloride,1625,mg/L
+SAN CLEMENTE,Total,Chloride,448.75,mg/L
+MISSION VIEJO,Total,Chlorpyrifos,0.5,ng/L
+LAKE FOREST,Total,Chlorpyrifos,0.5,ng/L
+RANCHO SANTA MARGARITA,Total,Chlorpyrifos,0.5,ng/L
+ORANGE CO,Total,Chlorpyrifos,0.5,ng/L
+LAGUNA NIGUEL,Total,Chlorpyrifos,0.5,ng/L
+ALISO VIEJO,Total,Chlorpyrifos,0.5,ng/L
+LAGUNA HILLS,Total,Chlorpyrifos,0.5,ng/L
+LAGUNA WOODS,Total,Chlorpyrifos,0.5,ng/L
+DANA POINT,Total,Chlorpyrifos,0.5,ng/L
+SAN JUAN CAPISTRANO,Total,Chlorpyrifos,0.796,ng/L
+LAGUNA BEACH,Total,Chlorpyrifos,0.5,ng/L
+SAN CLEMENTE,Total,Chlorpyrifos,0.5,ng/L
+MISSION VIEJO,Total,Chromium,0.36678571428571427,ug/L
+MISSION VIEJO,Dissolved,Chromium,0.36678571428571427,ug/L
+LAKE FOREST,Total,Chromium,0.64,ug/L
+LAKE FOREST,Dissolved,Chromium,0.64,ug/L
+RANCHO SANTA MARGARITA,Total,Chromium,0.31466666666666665,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Chromium,0.31466666666666665,ug/L
+ORANGE CO,Total,Chromium,0.6604545454545454,ug/L
+ORANGE CO,Dissolved,Chromium,0.6604545454545454,ug/L
+LAGUNA NIGUEL,Total,Chromium,0.3868421052631579,ug/L
+ALISO VIEJO,Total,Chromium,1.0911111111111111,ug/L
+LAGUNA NIGUEL,Dissolved,Chromium,0.3868421052631579,ug/L
+ALISO VIEJO,Dissolved,Chromium,1.0911111111111111,ug/L
+LAGUNA HILLS,Total,Chromium,0.515,ug/L
+LAGUNA WOODS,Total,Chromium,0.515,ug/L
+LAGUNA HILLS,Dissolved,Chromium,0.515,ug/L
+LAGUNA WOODS,Dissolved,Chromium,0.515,ug/L
+DANA POINT,Total,Chromium,0.42583333333333334,ug/L
+SAN JUAN CAPISTRANO,Total,Chromium,0.276875,ug/L
+DANA POINT,Dissolved,Chromium,0.42583333333333334,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Chromium,0.276875,ug/L
+LAGUNA BEACH,Total,Chromium,0.23500000000000001,ug/L
+LAGUNA BEACH,Dissolved,Chromium,0.23500000000000001,ug/L
+SAN CLEMENTE,Total,Chromium,0.841875,ug/L
+SAN CLEMENTE,Dissolved,Chromium,0.841875,ug/L
+MISSION VIEJO,Total,Chrysene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Chrysene,3.95,ng/L
+ORANGE CO,Total,Chrysene,3.6176470588235294,ng/L
+LAGUNA NIGUEL,Total,Chrysene,4.4375,ng/L
+ALISO VIEJO,Total,Chrysene,5.044444444444444,ng/L
+LAGUNA HILLS,Total,Chrysene,2.5,ng/L
+LAGUNA WOODS,Total,Chrysene,2.5,ng/L
+LAKE FOREST,Total,Chrysene,2.5,ng/L
+DANA POINT,Total,Chrysene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Chrysene,2.5,ng/L
+LAGUNA BEACH,Total,Chrysene,2.5,ng/L
+SAN CLEMENTE,Total,Chrysene,2.5,ng/L
+MISSION VIEJO,Total,Copper,5.116666666666666,ug/L
+MISSION VIEJO,Dissolved,Copper,5.116666666666666,ug/L
+LAKE FOREST,Total,Copper,5.7125,ug/L
+LAKE FOREST,Dissolved,Copper,5.7125,ug/L
+RANCHO SANTA MARGARITA,Total,Copper,4.785714285714286,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Copper,4.785714285714286,ug/L
+ORANGE CO,Total,Copper,4.373666666666667,ug/L
+ORANGE CO,Dissolved,Copper,4.373666666666667,ug/L
+LAGUNA NIGUEL,Total,Copper,5.13125,ug/L
+ALISO VIEJO,Total,Copper,4.6499999999999995,ug/L
+LAGUNA NIGUEL,Dissolved,Copper,5.13125,ug/L
+ALISO VIEJO,Dissolved,Copper,4.6499999999999995,ug/L
+LAGUNA HILLS,Total,Copper,3.35,ug/L
+LAGUNA WOODS,Total,Copper,3.35,ug/L
+LAGUNA HILLS,Dissolved,Copper,3.35,ug/L
+LAGUNA WOODS,Dissolved,Copper,3.35,ug/L
+DANA POINT,Total,Copper,7.491666666666666,ug/L
+SAN JUAN CAPISTRANO,Total,Copper,2.9875,ug/L
+DANA POINT,Dissolved,Copper,7.491666666666666,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Copper,2.9875,ug/L
+LAGUNA BEACH,Total,Copper,1.75,ug/L
+LAGUNA BEACH,Dissolved,Copper,1.75,ug/L
+SAN CLEMENTE,Total,Copper,4.075,ug/L
+SAN CLEMENTE,Dissolved,Copper,4.075,ug/L
+MISSION VIEJO,Total,delta BHC,2.5,ng/L
+LAKE FOREST,Total,delta BHC,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,delta BHC,2.5,ng/L
+ORANGE CO,Total,delta BHC,2.5,ng/L
+LAGUNA NIGUEL,Total,delta BHC,2.5,ng/L
+ALISO VIEJO,Total,delta BHC,2.5,ng/L
+LAGUNA HILLS,Total,delta BHC,2.5,ng/L
+LAGUNA WOODS,Total,delta BHC,2.5,ng/L
+DANA POINT,Total,delta BHC,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,delta BHC,2.5,ng/L
+LAGUNA BEACH,Total,delta BHC,2.5,ng/L
+SAN CLEMENTE,Total,delta BHC,2.5,ng/L
+MISSION VIEJO,Total,Demeton,1,ng/L
+LAKE FOREST,Total,Demeton,1,ng/L
+RANCHO SANTA MARGARITA,Total,Demeton,1,ng/L
+ORANGE CO,Total,Demeton,1,ng/L
+LAGUNA NIGUEL,Total,Demeton,1,ng/L
+ALISO VIEJO,Total,Demeton,1,ng/L
+LAGUNA HILLS,Total,Demeton,1,ng/L
+LAGUNA WOODS,Total,Demeton,1,ng/L
+DANA POINT,Total,Demeton,1,ng/L
+SAN JUAN CAPISTRANO,Total,Demeton,1,ng/L
+LAGUNA BEACH,Total,Demeton,1,ng/L
+SAN CLEMENTE,Total,Demeton,1,ng/L
+MISSION VIEJO,Total,Diazinon,0.5,ng/L
+LAKE FOREST,Total,Diazinon,0.5,ng/L
+RANCHO SANTA MARGARITA,Total,Diazinon,1.2375,ng/L
+ORANGE CO,Total,Diazinon,1.0688235294117647,ng/L
+LAGUNA NIGUEL,Total,Diazinon,0.5,ng/L
+ALISO VIEJO,Total,Diazinon,0.9188888888888889,ng/L
+LAGUNA HILLS,Total,Diazinon,0.5,ng/L
+LAGUNA WOODS,Total,Diazinon,0.5,ng/L
+DANA POINT,Total,Diazinon,0.5,ng/L
+SAN JUAN CAPISTRANO,Total,Diazinon,0.5,ng/L
+LAGUNA BEACH,Total,Diazinon,0.5,ng/L
+SAN CLEMENTE,Total,Diazinon,0.5,ng/L
+MISSION VIEJO,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+LAKE FOREST,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+RANCHO SANTA MARGARITA,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+ORANGE CO,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+LAGUNA NIGUEL,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+ALISO VIEJO,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+LAGUNA HILLS,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+LAGUNA WOODS,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+DANA POINT,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+SAN JUAN CAPISTRANO,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+LAGUNA BEACH,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+SAN CLEMENTE,Total,"Dibenz(a,h)anthracene",2.5,ng/L
+MISSION VIEJO,Total,Dibenzothiophene,2.5,ng/L
+LAKE FOREST,Total,Dibenzothiophene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Dibenzothiophene,2.5,ng/L
+ORANGE CO,Total,Dibenzothiophene,2.5,ng/L
+LAGUNA NIGUEL,Total,Dibenzothiophene,2.5,ng/L
+ALISO VIEJO,Total,Dibenzothiophene,2.5,ng/L
+LAGUNA HILLS,Total,Dibenzothiophene,2.5,ng/L
+LAGUNA WOODS,Total,Dibenzothiophene,2.5,ng/L
+DANA POINT,Total,Dibenzothiophene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Dibenzothiophene,2.5,ng/L
+LAGUNA BEACH,Total,Dibenzothiophene,2.5,ng/L
+SAN CLEMENTE,Total,Dibenzothiophene,2.5,ng/L
+MISSION VIEJO,Total,Dichlorvos,3,ng/L
+LAKE FOREST,Total,Dichlorvos,3,ng/L
+RANCHO SANTA MARGARITA,Total,Dichlorvos,3,ng/L
+ORANGE CO,Total,Dichlorvos,3,ng/L
+LAGUNA NIGUEL,Total,Dichlorvos,3,ng/L
+ALISO VIEJO,Total,Dichlorvos,3,ng/L
+LAGUNA HILLS,Total,Dichlorvos,3,ng/L
+LAGUNA WOODS,Total,Dichlorvos,3,ng/L
+DANA POINT,Total,Dichlorvos,3,ng/L
+SAN JUAN CAPISTRANO,Total,Dichlorvos,3,ng/L
+LAGUNA BEACH,Total,Dichlorvos,3,ng/L
+SAN CLEMENTE,Total,Dichlorvos,3,ng/L
+MISSION VIEJO,Total,Dieldrin,1,ng/L
+LAKE FOREST,Total,Dieldrin,1,ng/L
+RANCHO SANTA MARGARITA,Total,Dieldrin,1,ng/L
+ORANGE CO,Total,Dieldrin,1,ng/L
+LAGUNA NIGUEL,Total,Dieldrin,1,ng/L
+ALISO VIEJO,Total,Dieldrin,1,ng/L
+LAGUNA HILLS,Total,Dieldrin,1,ng/L
+LAGUNA WOODS,Total,Dieldrin,1,ng/L
+DANA POINT,Total,Dieldrin,1,ng/L
+SAN JUAN CAPISTRANO,Total,Dieldrin,1,ng/L
+LAGUNA BEACH,Total,Dieldrin,1,ng/L
+SAN CLEMENTE,Total,Dieldrin,1.492,ng/L
+MISSION VIEJO,Total,Dimethoate,11.428571428571429,ng/L
+LAKE FOREST,Total,Dimethoate,17.966666666666665,ng/L
+RANCHO SANTA MARGARITA,Total,Dimethoate,5,ng/L
+ORANGE CO,Total,Dimethoate,5,ng/L
+LAGUNA NIGUEL,Total,Dimethoate,5,ng/L
+ALISO VIEJO,Total,Dimethoate,5,ng/L
+LAGUNA HILLS,Total,Dimethoate,5,ng/L
+LAGUNA WOODS,Total,Dimethoate,5,ng/L
+DANA POINT,Total,Dimethoate,5,ng/L
+SAN JUAN CAPISTRANO,Total,Dimethoate,5,ng/L
+LAGUNA BEACH,Total,Dimethoate,5,ng/L
+SAN CLEMENTE,Total,Dimethoate,5,ng/L
+MISSION VIEJO,Total,Disulfoton,1,ng/L
+LAKE FOREST,Total,Disulfoton,1,ng/L
+RANCHO SANTA MARGARITA,Total,Disulfoton,1,ng/L
+ORANGE CO,Total,Disulfoton,1,ng/L
+LAGUNA NIGUEL,Total,Disulfoton,1,ng/L
+ALISO VIEJO,Total,Disulfoton,1,ng/L
+LAGUNA HILLS,Total,Disulfoton,1,ng/L
+LAGUNA WOODS,Total,Disulfoton,1,ng/L
+DANA POINT,Total,Disulfoton,1,ng/L
+SAN JUAN CAPISTRANO,Total,Disulfoton,1,ng/L
+LAGUNA BEACH,Total,Disulfoton,1,ng/L
+SAN CLEMENTE,Total,Disulfoton,1,ng/L
+MISSION VIEJO,Total,DOC,7.875,ng/L
+LAKE FOREST,Total,DOC,5.6,ng/L
+RANCHO SANTA MARGARITA,Total,DOC,7.521428571428571,ng/L
+ORANGE CO,Total,DOC,7.8933333333333335,ng/L
+LAGUNA NIGUEL,Total,DOC,5.625,ng/L
+ALISO VIEJO,Total,DOC,4.80625,ng/L
+LAGUNA HILLS,Total,DOC,3.05,ng/L
+LAGUNA WOODS,Total,DOC,3.05,ng/L
+DANA POINT,Total,DOC,7.975,ng/L
+SAN JUAN CAPISTRANO,Total,DOC,5.6875,ng/L
+LAGUNA BEACH,Total,DOC,4.925,ng/L
+SAN CLEMENTE,Total,DOC,12.3375,ng/L
+MISSION VIEJO,Total,E. coli,13172.222222222223,CFU/100 mL
+LAKE FOREST,Total,E. coli,2817.5,CFU/100 mL
+RANCHO SANTA MARGARITA,Total,E. coli,2514.5,CFU/100 mL
+ORANGE CO,Total,E. coli,2274.3478260869565,CFU/100 mL
+LAGUNA NIGUEL,Total,E. coli,425.4166666666667,CFU/100 mL
+ALISO VIEJO,Total,E. coli,3872.6923076923076,CFU/100 mL
+LAGUNA HILLS,Total,E. coli,5280,CFU/100 mL
+LAGUNA WOODS,Total,E. coli,5280,CFU/100 mL
+DANA POINT,Total,E. coli,1554,CFU/100 mL
+SAN JUAN CAPISTRANO,Total,E. coli,836.6666666666666,CFU/100 mL
+LAGUNA BEACH,Total,E. coli,165,CFU/100 mL
+SAN CLEMENTE,Total,E. coli,9868.75,CFU/100 mL
+MISSION VIEJO,Total,Endosulfan I,2.5,ng/L
+LAKE FOREST,Total,Endosulfan I,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Endosulfan I,2.5,ng/L
+ORANGE CO,Total,Endosulfan I,2.5,ng/L
+LAGUNA NIGUEL,Total,Endosulfan I,2.5,ng/L
+ALISO VIEJO,Total,Endosulfan I,2.5,ng/L
+LAGUNA HILLS,Total,Endosulfan I,2.5,ng/L
+LAGUNA WOODS,Total,Endosulfan I,2.5,ng/L
+DANA POINT,Total,Endosulfan I,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Endosulfan I,2.5,ng/L
+LAGUNA BEACH,Total,Endosulfan I,2.5,ng/L
+SAN CLEMENTE,Total,Endosulfan I,2.5,ng/L
+MISSION VIEJO,Total,Endosulfan II,2.5,ng/L
+LAKE FOREST,Total,Endosulfan II,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Endosulfan II,2.5,ng/L
+ORANGE CO,Total,Endosulfan II,2.5,ng/L
+LAGUNA NIGUEL,Total,Endosulfan II,2.5,ng/L
+ALISO VIEJO,Total,Endosulfan II,2.5,ng/L
+LAGUNA HILLS,Total,Endosulfan II,2.5,ng/L
+LAGUNA WOODS,Total,Endosulfan II,2.5,ng/L
+DANA POINT,Total,Endosulfan II,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Endosulfan II,2.5,ng/L
+LAGUNA BEACH,Total,Endosulfan II,2.5,ng/L
+SAN CLEMENTE,Total,Endosulfan II,2.5,ng/L
+MISSION VIEJO,Total,Endosulfan sulfate,2.5,ng/L
+LAKE FOREST,Total,Endosulfan sulfate,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Endosulfan sulfate,2.5,ng/L
+ORANGE CO,Total,Endosulfan sulfate,2.5,ng/L
+LAGUNA NIGUEL,Total,Endosulfan sulfate,2.5,ng/L
+ALISO VIEJO,Total,Endosulfan sulfate,2.5,ng/L
+LAGUNA HILLS,Total,Endosulfan sulfate,2.5,ng/L
+LAGUNA WOODS,Total,Endosulfan sulfate,2.5,ng/L
+DANA POINT,Total,Endosulfan sulfate,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Endosulfan sulfate,2.5,ng/L
+LAGUNA BEACH,Total,Endosulfan sulfate,2.5,ng/L
+SAN CLEMENTE,Total,Endosulfan sulfate,2.5,ng/L
+MISSION VIEJO,Total,Endrin,2.5,ng/L
+LAKE FOREST,Total,Endrin,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Endrin,2.5,ng/L
+ORANGE CO,Total,Endrin,2.5,ng/L
+LAGUNA NIGUEL,Total,Endrin,2.5,ng/L
+ALISO VIEJO,Total,Endrin,2.5,ng/L
+LAGUNA HILLS,Total,Endrin,2.5,ng/L
+LAGUNA WOODS,Total,Endrin,2.5,ng/L
+DANA POINT,Total,Endrin,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Endrin,2.5,ng/L
+LAGUNA BEACH,Total,Endrin,2.5,ng/L
+SAN CLEMENTE,Total,Endrin,2.5,ng/L
+MISSION VIEJO,Total,Endrin aldehyde,2.5,ng/L
+LAKE FOREST,Total,Endrin aldehyde,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Endrin aldehyde,2.5,ng/L
+ORANGE CO,Total,Endrin aldehyde,2.5,ng/L
+LAGUNA NIGUEL,Total,Endrin aldehyde,2.5,ng/L
+ALISO VIEJO,Total,Endrin aldehyde,2.5,ng/L
+LAGUNA HILLS,Total,Endrin aldehyde,2.5,ng/L
+LAGUNA WOODS,Total,Endrin aldehyde,2.5,ng/L
+DANA POINT,Total,Endrin aldehyde,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Endrin aldehyde,2.5,ng/L
+LAGUNA BEACH,Total,Endrin aldehyde,2.5,ng/L
+SAN CLEMENTE,Total,Endrin aldehyde,2.5,ng/L
+MISSION VIEJO,Total,Enterococcus,12167.272727272728,CFU/100 mL
+LAKE FOREST,Total,Enterococcus,2116.6666666666665,CFU/100 mL
+RANCHO SANTA MARGARITA,Total,Enterococcus,8665,CFU/100 mL
+ORANGE CO,Total,Enterococcus,5788.421052631579,CFU/100 mL
+LAGUNA NIGUEL,Total,Enterococcus,2162.0833333333335,CFU/100 mL
+ALISO VIEJO,Total,Enterococcus,6092.272727272727,CFU/100 mL
+LAGUNA HILLS,Total,Enterococcus,800,CFU/100 mL
+LAGUNA WOODS,Total,Enterococcus,800,CFU/100 mL
+DANA POINT,Total,Enterococcus,2893,CFU/100 mL
+SAN JUAN CAPISTRANO,Total,Enterococcus,2017.5,CFU/100 mL
+LAGUNA BEACH,Total,Enterococcus,221.66666666666666,CFU/100 mL
+SAN CLEMENTE,Total,Enterococcus,14855.714285714286,CFU/100 mL
+MISSION VIEJO,Total,Ethoprop,1,ng/L
+LAKE FOREST,Total,Ethoprop,1,ng/L
+RANCHO SANTA MARGARITA,Total,Ethoprop,1,ng/L
+ORANGE CO,Total,Ethoprop,1,ng/L
+LAGUNA NIGUEL,Total,Ethoprop,1,ng/L
+ALISO VIEJO,Total,Ethoprop,1,ng/L
+LAGUNA HILLS,Total,Ethoprop,1,ng/L
+LAGUNA WOODS,Total,Ethoprop,1,ng/L
+DANA POINT,Total,Ethoprop,1,ng/L
+SAN JUAN CAPISTRANO,Total,Ethoprop,1,ng/L
+LAGUNA BEACH,Total,Ethoprop,1,ng/L
+SAN CLEMENTE,Total,Ethoprop,1,ng/L
+MISSION VIEJO,Total,Ethyl parathion,10,ng/L
+LAKE FOREST,Total,Ethyl parathion,10,ng/L
+RANCHO SANTA MARGARITA,Total,Ethyl parathion,10,ng/L
+ORANGE CO,Total,Ethyl parathion,10,ng/L
+LAGUNA NIGUEL,Total,Ethyl parathion,10,ng/L
+ALISO VIEJO,Total,Ethyl parathion,10,ng/L
+LAGUNA HILLS,Total,Ethyl parathion,10,ng/L
+LAGUNA WOODS,Total,Ethyl parathion,10,ng/L
+DANA POINT,Total,Ethyl parathion,10,ng/L
+SAN JUAN CAPISTRANO,Total,Ethyl parathion,10,ng/L
+LAGUNA BEACH,Total,Ethyl parathion,10,ng/L
+SAN CLEMENTE,Total,Ethyl parathion,10,ng/L
+MISSION VIEJO,Total,Fecal coliforms,10191.666666666666,CFU/100 mL
+LAKE FOREST,Total,Fecal coliforms,5375,CFU/100 mL
+RANCHO SANTA MARGARITA,Total,Fecal coliforms,6300,CFU/100 mL
+ORANGE CO,Total,Fecal coliforms,5322.857142857143,CFU/100 mL
+LAGUNA NIGUEL,Total,Fecal coliforms,739.5454545454545,CFU/100 mL
+ALISO VIEJO,Total,Fecal coliforms,7249.090909090909,CFU/100 mL
+LAGUNA HILLS,Total,Fecal coliforms,9550,CFU/100 mL
+LAGUNA WOODS,Total,Fecal coliforms,9550,CFU/100 mL
+DANA POINT,Total,Fecal coliforms,2950,CFU/100 mL
+SAN JUAN CAPISTRANO,Total,Fecal coliforms,1323.5714285714287,CFU/100 mL
+LAGUNA BEACH,Total,Fecal coliforms,267.5,CFU/100 mL
+SAN CLEMENTE,Total,Fecal coliforms,8714,CFU/100 mL
+MISSION VIEJO,Total,Fenchlorophos,2,ng/L
+LAKE FOREST,Total,Fenchlorophos,2,ng/L
+RANCHO SANTA MARGARITA,Total,Fenchlorophos,2,ng/L
+ORANGE CO,Total,Fenchlorophos,2,ng/L
+LAGUNA NIGUEL,Total,Fenchlorophos,2,ng/L
+ALISO VIEJO,Total,Fenchlorophos,2,ng/L
+LAGUNA HILLS,Total,Fenchlorophos,2,ng/L
+LAGUNA WOODS,Total,Fenchlorophos,2,ng/L
+DANA POINT,Total,Fenchlorophos,2,ng/L
+SAN JUAN CAPISTRANO,Total,Fenchlorophos,2,ng/L
+LAGUNA BEACH,Total,Fenchlorophos,2,ng/L
+SAN CLEMENTE,Total,Fenchlorophos,2,ng/L
+MISSION VIEJO,Total,Fensulfothion,1,ng/L
+LAKE FOREST,Total,Fensulfothion,1,ng/L
+RANCHO SANTA MARGARITA,Total,Fensulfothion,1,ng/L
+ORANGE CO,Total,Fensulfothion,1,ng/L
+LAGUNA NIGUEL,Total,Fensulfothion,1,ng/L
+ALISO VIEJO,Total,Fensulfothion,1,ng/L
+LAGUNA HILLS,Total,Fensulfothion,1,ng/L
+LAGUNA WOODS,Total,Fensulfothion,1,ng/L
+DANA POINT,Total,Fensulfothion,1,ng/L
+SAN JUAN CAPISTRANO,Total,Fensulfothion,1,ng/L
+LAGUNA BEACH,Total,Fensulfothion,1,ng/L
+SAN CLEMENTE,Total,Fensulfothion,1,ng/L
+MISSION VIEJO,Total,Fenthion,2,ng/L
+LAKE FOREST,Total,Fenthion,2,ng/L
+RANCHO SANTA MARGARITA,Total,Fenthion,2,ng/L
+ORANGE CO,Total,Fenthion,2,ng/L
+LAGUNA NIGUEL,Total,Fenthion,2,ng/L
+ALISO VIEJO,Total,Fenthion,2,ng/L
+LAGUNA HILLS,Total,Fenthion,2,ng/L
+LAGUNA WOODS,Total,Fenthion,2,ng/L
+DANA POINT,Total,Fenthion,2,ng/L
+SAN JUAN CAPISTRANO,Total,Fenthion,2,ng/L
+LAGUNA BEACH,Total,Fenthion,2,ng/L
+SAN CLEMENTE,Total,Fenthion,2,ng/L
+MISSION VIEJO,Total,Fluoranthene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Fluoranthene,8.628571428571428,ng/L
+ORANGE CO,Total,Fluoranthene,5.946666666666666,ng/L
+LAGUNA NIGUEL,Total,Fluoranthene,7.944444444444445,ng/L
+ALISO VIEJO,Total,Fluoranthene,8.28,ng/L
+LAGUNA HILLS,Total,Fluoranthene,2.5,ng/L
+LAGUNA WOODS,Total,Fluoranthene,2.5,ng/L
+LAKE FOREST,Total,Fluoranthene,2.5,ng/L
+DANA POINT,Total,Fluoranthene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Fluoranthene,2.5,ng/L
+SAN CLEMENTE,Total,Fluoranthene,2.5,ng/L
+MISSION VIEJO,Total,Fluorene,2.5,ng/L
+LAKE FOREST,Total,Fluorene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Fluorene,2.5,ng/L
+ORANGE CO,Total,Fluorene,2.5,ng/L
+LAGUNA NIGUEL,Total,Fluorene,2.5,ng/L
+ALISO VIEJO,Total,Fluorene,2.5,ng/L
+LAGUNA HILLS,Total,Fluorene,2.5,ng/L
+LAGUNA WOODS,Total,Fluorene,2.5,ng/L
+DANA POINT,Total,Fluorene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Fluorene,2.5,ng/L
+LAGUNA BEACH,Total,Fluorene,2.5,ng/L
+SAN CLEMENTE,Total,Fluorene,2.5,ng/L
+MISSION VIEJO,Total,gamma BHC,2.5,ng/L
+LAKE FOREST,Total,gamma BHC,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,gamma BHC,2.5,ng/L
+ORANGE CO,Total,gamma BHC,2.5,ng/L
+LAGUNA NIGUEL,Total,gamma BHC,2.5,ng/L
+ALISO VIEJO,Total,gamma BHC,2.5,ng/L
+LAGUNA HILLS,Total,gamma BHC,2.5,ng/L
+LAGUNA WOODS,Total,gamma BHC,2.5,ng/L
+DANA POINT,Total,gamma BHC,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,gamma BHC,2.5,ng/L
+LAGUNA BEACH,Total,gamma BHC,2.5,ng/L
+SAN CLEMENTE,Total,gamma BHC,2.5,ng/L
+MISSION VIEJO,Total,gamma Chlordane,1,ng/L
+LAKE FOREST,Total,gamma Chlordane,1,ng/L
+RANCHO SANTA MARGARITA,Total,gamma Chlordane,1,ng/L
+ORANGE CO,Total,gamma Chlordane,1,ng/L
+LAGUNA NIGUEL,Total,gamma Chlordane,1,ng/L
+ALISO VIEJO,Total,gamma Chlordane,1,ng/L
+LAGUNA HILLS,Total,gamma Chlordane,1,ng/L
+LAGUNA WOODS,Total,gamma Chlordane,1,ng/L
+DANA POINT,Total,gamma Chlordane,1,ng/L
+SAN JUAN CAPISTRANO,Total,gamma Chlordane,1,ng/L
+LAGUNA BEACH,Total,gamma Chlordane,1,ng/L
+SAN CLEMENTE,Total,gamma Chlordane,1,ng/L
+MISSION VIEJO,Total,Hardness,1256.0833333333333,NA
+LAKE FOREST,Total,Hardness,890,NA
+RANCHO SANTA MARGARITA,Total,Hardness,598.9285714285714,NA
+ORANGE CO,Total,Hardness,1007.8333333333334,NA
+LAGUNA NIGUEL,Total,Hardness,1206.75,NA
+ALISO VIEJO,Total,Hardness,876.6875,NA
+LAGUNA HILLS,Total,Hardness,1055,NA
+LAGUNA WOODS,Total,Hardness,1055,NA
+DANA POINT,Total,Hardness,1148,NA
+SAN JUAN CAPISTRANO,Total,Hardness,1039.75,NA
+LAGUNA BEACH,Total,Hardness,2715,NA
+SAN CLEMENTE,Total,Hardness,1503,NA
+MISSION VIEJO,Total,Heptachlor,2.5,ng/L
+LAKE FOREST,Total,Heptachlor,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Heptachlor,2.5,ng/L
+ORANGE CO,Total,Heptachlor,2.5,ng/L
+LAGUNA NIGUEL,Total,Heptachlor,2.5,ng/L
+ALISO VIEJO,Total,Heptachlor,2.5,ng/L
+LAGUNA HILLS,Total,Heptachlor,2.5,ng/L
+LAGUNA WOODS,Total,Heptachlor,2.5,ng/L
+DANA POINT,Total,Heptachlor,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Heptachlor,2.5,ng/L
+LAGUNA BEACH,Total,Heptachlor,2.5,ng/L
+SAN CLEMENTE,Total,Heptachlor,2.5,ng/L
+MISSION VIEJO,Total,Heptachlor epoxide,2.5,ng/L
+LAKE FOREST,Total,Heptachlor epoxide,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Heptachlor epoxide,2.5,ng/L
+ORANGE CO,Total,Heptachlor epoxide,2.5,ng/L
+LAGUNA NIGUEL,Total,Heptachlor epoxide,2.5,ng/L
+ALISO VIEJO,Total,Heptachlor epoxide,2.5,ng/L
+LAGUNA HILLS,Total,Heptachlor epoxide,2.5,ng/L
+LAGUNA WOODS,Total,Heptachlor epoxide,2.5,ng/L
+DANA POINT,Total,Heptachlor epoxide,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Heptachlor epoxide,2.5,ng/L
+LAGUNA BEACH,Total,Heptachlor epoxide,2.5,ng/L
+SAN CLEMENTE,Total,Heptachlor epoxide,2.5,ng/L
+MISSION VIEJO,Total,Hexavalent chromium,0.7761111111111111,ug/L
+MISSION VIEJO,Dissolved,Hexavalent chromium,0.7761111111111111,ug/L
+LAKE FOREST,Total,Hexavalent chromium,0.485,ug/L
+LAKE FOREST,Dissolved,Hexavalent chromium,0.485,ug/L
+RANCHO SANTA MARGARITA,Total,Hexavalent chromium,0.42625,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Hexavalent chromium,0.42625,ug/L
+ORANGE CO,Total,Hexavalent chromium,0.3114264705882353,ug/L
+ORANGE CO,Dissolved,Hexavalent chromium,0.3114264705882353,ug/L
+LAGUNA NIGUEL,Total,Hexavalent chromium,0.16776190476190475,ug/L
+ALISO VIEJO,Total,Hexavalent chromium,0.605,ug/L
+LAGUNA NIGUEL,Dissolved,Hexavalent chromium,0.16776190476190475,ug/L
+ALISO VIEJO,Dissolved,Hexavalent chromium,0.605,ug/L
+LAGUNA HILLS,Total,Hexavalent chromium,0.45,ug/L
+LAGUNA WOODS,Total,Hexavalent chromium,0.45,ug/L
+LAGUNA HILLS,Dissolved,Hexavalent chromium,0.45,ug/L
+LAGUNA WOODS,Dissolved,Hexavalent chromium,0.45,ug/L
+DANA POINT,Total,Hexavalent chromium,0.2978571428571429,ug/L
+SAN JUAN CAPISTRANO,Total,Hexavalent chromium,0.2173,ug/L
+DANA POINT,Dissolved,Hexavalent chromium,0.2978571428571429,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Hexavalent chromium,0.2173,ug/L
+LAGUNA BEACH,Total,Hexavalent chromium,0.049,ug/L
+LAGUNA BEACH,Dissolved,Hexavalent chromium,0.049,ug/L
+SAN CLEMENTE,Total,Hexavalent chromium,0.34833333333333333,ug/L
+SAN CLEMENTE,Dissolved,Hexavalent chromium,0.34833333333333333,ug/L
+MISSION VIEJO,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+LAKE FOREST,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+RANCHO SANTA MARGARITA,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+ORANGE CO,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+LAGUNA NIGUEL,Total,"Indeno(1,2,3-cd)pyrene",5.213,ng/L
+ALISO VIEJO,Total,"Indeno(1,2,3-cd)pyrene",5.213,ng/L
+LAGUNA HILLS,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+LAGUNA WOODS,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+DANA POINT,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+SAN JUAN CAPISTRANO,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+LAGUNA BEACH,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+SAN CLEMENTE,Total,"Indeno(1,2,3-cd)pyrene",2.5,ng/L
+MISSION VIEJO,Total,Iron,91.57142857142857,ug/L
+MISSION VIEJO,Dissolved,Iron,91.57142857142857,ug/L
+LAKE FOREST,Total,Iron,123.75,ug/L
+LAKE FOREST,Dissolved,Iron,123.75,ug/L
+RANCHO SANTA MARGARITA,Total,Iron,273.73333333333335,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Iron,273.73333333333335,ug/L
+ORANGE CO,Total,Iron,178.47142857142856,ug/L
+ORANGE CO,Dissolved,Iron,178.47142857142856,ug/L
+LAGUNA NIGUEL,Total,Iron,92.77777777777777,ug/L
+ALISO VIEJO,Total,Iron,146,ug/L
+LAGUNA NIGUEL,Dissolved,Iron,92.77777777777777,ug/L
+ALISO VIEJO,Dissolved,Iron,146,ug/L
+LAGUNA HILLS,Total,Iron,10,ug/L
+LAGUNA WOODS,Total,Iron,10,ug/L
+LAGUNA HILLS,Dissolved,Iron,10,ug/L
+LAGUNA WOODS,Dissolved,Iron,10,ug/L
+DANA POINT,Total,Iron,88.60714285714286,ug/L
+SAN JUAN CAPISTRANO,Total,Iron,85.25,ug/L
+DANA POINT,Dissolved,Iron,88.60714285714286,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Iron,85.25,ug/L
+LAGUNA BEACH,Total,Iron,38.375,ug/L
+LAGUNA BEACH,Dissolved,Iron,38.375,ug/L
+SAN CLEMENTE,Total,Iron,151.9090909090909,ug/L
+SAN CLEMENTE,Dissolved,Iron,151.9090909090909,ug/L
+MISSION VIEJO,Total,Lead,0.11076923076923077,ug/L
+MISSION VIEJO,Dissolved,Lead,0.11076923076923077,ug/L
+LAKE FOREST,Total,Lead,0.18125000000000002,ug/L
+LAKE FOREST,Dissolved,Lead,0.18125000000000002,ug/L
+RANCHO SANTA MARGARITA,Total,Lead,0.10933333333333334,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Lead,0.10933333333333334,ug/L
+ORANGE CO,Total,Lead,0.15441176470588236,ug/L
+ORANGE CO,Dissolved,Lead,0.15441176470588236,ug/L
+LAGUNA NIGUEL,Total,Lead,0.20722222222222222,ug/L
+ALISO VIEJO,Total,Lead,0.22,ug/L
+LAGUNA NIGUEL,Dissolved,Lead,0.20722222222222222,ug/L
+ALISO VIEJO,Dissolved,Lead,0.22,ug/L
+LAGUNA HILLS,Total,Lead,0.1,ug/L
+LAGUNA WOODS,Total,Lead,0.1,ug/L
+LAGUNA HILLS,Dissolved,Lead,0.1,ug/L
+LAGUNA WOODS,Dissolved,Lead,0.1,ug/L
+DANA POINT,Total,Lead,0.18571428571428572,ug/L
+SAN JUAN CAPISTRANO,Total,Lead,0.1,ug/L
+DANA POINT,Dissolved,Lead,0.18571428571428572,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Lead,0.1,ug/L
+LAGUNA BEACH,Total,Lead,0.1,ug/L
+LAGUNA BEACH,Dissolved,Lead,0.1,ug/L
+SAN CLEMENTE,Total,Lead,0.19,ug/L
+SAN CLEMENTE,Dissolved,Lead,0.19,ug/L
+MISSION VIEJO,Total,Magnesium,104.5,mg/L
+LAKE FOREST,Total,Magnesium,66.225,mg/L
+RANCHO SANTA MARGARITA,Total,Magnesium,48.24285714285714,mg/L
+ORANGE CO,Total,Magnesium,109.71333333333334,mg/L
+LAGUNA NIGUEL,Total,Magnesium,141.625,mg/L
+ALISO VIEJO,Total,Magnesium,76.3375,mg/L
+LAGUNA HILLS,Total,Magnesium,92.15,mg/L
+LAGUNA WOODS,Total,Magnesium,92.15,mg/L
+DANA POINT,Total,Magnesium,143.91666666666666,mg/L
+SAN JUAN CAPISTRANO,Total,Magnesium,120.9875,mg/L
+LAGUNA BEACH,Total,Magnesium,416.25,mg/L
+SAN CLEMENTE,Total,Magnesium,190.2125,mg/L
+MISSION VIEJO,Total,Malathion,9.028571428571428,ng/L
+LAKE FOREST,Total,Malathion,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Malathion,8.2125,ng/L
+ORANGE CO,Total,Malathion,2.5,ng/L
+LAGUNA NIGUEL,Total,Malathion,2.5,ng/L
+ALISO VIEJO,Total,Malathion,2.5,ng/L
+LAGUNA HILLS,Total,Malathion,2.5,ng/L
+LAGUNA WOODS,Total,Malathion,2.5,ng/L
+DANA POINT,Total,Malathion,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Malathion,2.5,ng/L
+LAGUNA BEACH,Total,Malathion,2.5,ng/L
+SAN CLEMENTE,Total,Malathion,2.5,ng/L
+MISSION VIEJO,Total,Manganese,286.7916666666667,ug/L
+MISSION VIEJO,Dissolved,Manganese,286.7916666666667,ug/L
+LAKE FOREST,Total,Manganese,233.125,ug/L
+LAKE FOREST,Dissolved,Manganese,233.125,ug/L
+RANCHO SANTA MARGARITA,Total,Manganese,161.62857142857143,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Manganese,161.62857142857143,ug/L
+ORANGE CO,Total,Manganese,304.23,ug/L
+ORANGE CO,Dissolved,Manganese,304.23,ug/L
+LAGUNA NIGUEL,Total,Manganese,264.646875,ug/L
+ALISO VIEJO,Total,Manganese,131.6875,ug/L
+LAGUNA NIGUEL,Dissolved,Manganese,264.646875,ug/L
+ALISO VIEJO,Dissolved,Manganese,131.6875,ug/L
+LAGUNA HILLS,Total,Manganese,377.5,ug/L
+LAGUNA WOODS,Total,Manganese,377.5,ug/L
+LAGUNA HILLS,Dissolved,Manganese,377.5,ug/L
+LAGUNA WOODS,Dissolved,Manganese,377.5,ug/L
+DANA POINT,Total,Manganese,290.425,ug/L
+SAN JUAN CAPISTRANO,Total,Manganese,34.05,ug/L
+DANA POINT,Dissolved,Manganese,290.425,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Manganese,34.05,ug/L
+LAGUNA BEACH,Total,Manganese,95.5,ug/L
+LAGUNA BEACH,Dissolved,Manganese,95.5,ug/L
+SAN CLEMENTE,Total,Manganese,1145.125,ug/L
+SAN CLEMENTE,Dissolved,Manganese,1145.125,ug/L
+MISSION VIEJO,Total,MBAS,0.09907142857142857,mg/L
+LAKE FOREST,Total,MBAS,0.09666666666666666,mg/L
+RANCHO SANTA MARGARITA,Total,MBAS,0.08178571428571428,mg/L
+ORANGE CO,Total,MBAS,0.0746875,mg/L
+LAGUNA NIGUEL,Total,MBAS,0.06372222222222222,mg/L
+ALISO VIEJO,Total,MBAS,0.06333333333333334,mg/L
+LAGUNA HILLS,Total,MBAS,0.16999999999999998,mg/L
+LAGUNA WOODS,Total,MBAS,0.16999999999999998,mg/L
+DANA POINT,Total,MBAS,0.11078571428571428,mg/L
+SAN JUAN CAPISTRANO,Total,MBAS,0.058916666666666666,mg/L
+LAGUNA BEACH,Total,MBAS,0.091,mg/L
+SAN CLEMENTE,Total,MBAS,0.09725,mg/L
+MISSION VIEJO,Total,Mercury,0.025,ug/L
+MISSION VIEJO,Dissolved,Mercury,0.025,ug/L
+LAKE FOREST,Total,Mercury,0.025,ug/L
+LAKE FOREST,Dissolved,Mercury,0.025,ug/L
+RANCHO SANTA MARGARITA,Total,Mercury,0.025,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Mercury,0.025,ug/L
+ORANGE CO,Total,Mercury,0.028435483870967743,ug/L
+ORANGE CO,Dissolved,Mercury,0.028435483870967743,ug/L
+LAGUNA NIGUEL,Total,Mercury,0.025,ug/L
+ALISO VIEJO,Total,Mercury,0.030093750000000002,ug/L
+LAGUNA NIGUEL,Dissolved,Mercury,0.025,ug/L
+ALISO VIEJO,Dissolved,Mercury,0.030093750000000002,ug/L
+LAGUNA HILLS,Total,Mercury,0.025,ug/L
+LAGUNA WOODS,Total,Mercury,0.025,ug/L
+LAGUNA HILLS,Dissolved,Mercury,0.025,ug/L
+LAGUNA WOODS,Dissolved,Mercury,0.025,ug/L
+DANA POINT,Total,Mercury,0.025,ug/L
+SAN JUAN CAPISTRANO,Total,Mercury,0.025,ug/L
+DANA POINT,Dissolved,Mercury,0.025,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Mercury,0.025,ug/L
+LAGUNA BEACH,Total,Mercury,0.030000000000000002,ug/L
+LAGUNA BEACH,Dissolved,Mercury,0.030000000000000002,ug/L
+SAN CLEMENTE,Total,Mercury,0.025,ug/L
+SAN CLEMENTE,Dissolved,Mercury,0.025,ug/L
+MISSION VIEJO,Total,Merphos,14.766666666666667,ng/L
+LAKE FOREST,Total,Merphos,9.933333333333334,ng/L
+RANCHO SANTA MARGARITA,Total,Merphos,12.218181818181819,ng/L
+ORANGE CO,Total,Merphos,6.48,ng/L
+LAGUNA NIGUEL,Total,Merphos,9.417272727272728,ng/L
+ALISO VIEJO,Total,Merphos,5,ng/L
+LAGUNA HILLS,Total,Merphos,14.4,ng/L
+LAGUNA WOODS,Total,Merphos,14.4,ng/L
+DANA POINT,Total,Merphos,6.68625,ng/L
+SAN JUAN CAPISTRANO,Total,Merphos,5.8475,ng/L
+LAGUNA BEACH,Total,Merphos,1,ng/L
+SAN CLEMENTE,Total,Merphos,8.995714285714286,ng/L
+MISSION VIEJO,Total,Methoxychlor,2.5,ng/L
+LAKE FOREST,Total,Methoxychlor,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Methoxychlor,2.5,ng/L
+ORANGE CO,Total,Methoxychlor,2.5,ng/L
+LAGUNA NIGUEL,Total,Methoxychlor,2.5,ng/L
+ALISO VIEJO,Total,Methoxychlor,2.5,ng/L
+LAGUNA HILLS,Total,Methoxychlor,2.5,ng/L
+LAGUNA WOODS,Total,Methoxychlor,2.5,ng/L
+DANA POINT,Total,Methoxychlor,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Methoxychlor,2.5,ng/L
+LAGUNA BEACH,Total,Methoxychlor,2.5,ng/L
+SAN CLEMENTE,Total,Methoxychlor,2.5,ng/L
+MISSION VIEJO,Total,Methyl parathion,1,ng/L
+LAKE FOREST,Total,Methyl parathion,1,ng/L
+RANCHO SANTA MARGARITA,Total,Methyl parathion,1,ng/L
+ORANGE CO,Total,Methyl parathion,1,ng/L
+LAGUNA NIGUEL,Total,Methyl parathion,1,ng/L
+ALISO VIEJO,Total,Methyl parathion,1,ng/L
+LAGUNA HILLS,Total,Methyl parathion,1,ng/L
+LAGUNA WOODS,Total,Methyl parathion,1,ng/L
+DANA POINT,Total,Methyl parathion,1,ng/L
+SAN JUAN CAPISTRANO,Total,Methyl parathion,1,ng/L
+LAGUNA BEACH,Total,Methyl parathion,1,ng/L
+SAN CLEMENTE,Total,Methyl parathion,1,ng/L
+MISSION VIEJO,Total,Mevinphos,5,ng/L
+LAKE FOREST,Total,Mevinphos,5,ng/L
+RANCHO SANTA MARGARITA,Total,Mevinphos,5,ng/L
+ORANGE CO,Total,Mevinphos,5,ng/L
+LAGUNA NIGUEL,Total,Mevinphos,5,ng/L
+ALISO VIEJO,Total,Mevinphos,5,ng/L
+LAGUNA HILLS,Total,Mevinphos,5,ng/L
+LAGUNA WOODS,Total,Mevinphos,5,ng/L
+DANA POINT,Total,Mevinphos,5,ng/L
+SAN JUAN CAPISTRANO,Total,Mevinphos,5,ng/L
+LAGUNA BEACH,Total,Mevinphos,5,ng/L
+SAN CLEMENTE,Total,Mevinphos,5,ng/L
+MISSION VIEJO,Total,Mirex,2.5,ng/L
+LAKE FOREST,Total,Mirex,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Mirex,2.5,ng/L
+ORANGE CO,Total,Mirex,2.5,ng/L
+LAGUNA NIGUEL,Total,Mirex,2.5,ng/L
+ALISO VIEJO,Total,Mirex,2.5,ng/L
+LAGUNA HILLS,Total,Mirex,2.5,ng/L
+LAGUNA WOODS,Total,Mirex,2.5,ng/L
+DANA POINT,Total,Mirex,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Mirex,2.5,ng/L
+LAGUNA BEACH,Total,Mirex,2.5,ng/L
+SAN CLEMENTE,Total,Mirex,2.5,ng/L
+MISSION VIEJO,Total,Naphthalene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Naphthalene,2.5,ng/L
+ORANGE CO,Total,Naphthalene,3.23,ng/L
+LAGUNA NIGUEL,Total,Naphthalene,2.5,ng/L
+ALISO VIEJO,Total,Naphthalene,3.3475,ng/L
+LAGUNA HILLS,Total,Naphthalene,2.5,ng/L
+LAGUNA WOODS,Total,Naphthalene,2.5,ng/L
+LAKE FOREST,Total,Naphthalene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Naphthalene,11.365,ng/L
+DANA POINT,Total,Naphthalene,2.5,ng/L
+LAGUNA BEACH,Total,Naphthalene,2.5,ng/L
+MISSION VIEJO,Total,Nickel,27.675,ug/L
+MISSION VIEJO,Dissolved,Nickel,27.675,ug/L
+LAKE FOREST,Total,Nickel,4.1125,ug/L
+LAKE FOREST,Dissolved,Nickel,4.1125,ug/L
+RANCHO SANTA MARGARITA,Total,Nickel,13.135714285714286,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Nickel,13.135714285714286,ug/L
+ORANGE CO,Total,Nickel,40.54833333333333,ug/L
+ORANGE CO,Dissolved,Nickel,40.54833333333333,ug/L
+LAGUNA NIGUEL,Total,Nickel,21.59375,ug/L
+ALISO VIEJO,Total,Nickel,8.944117647058823,ug/L
+LAGUNA NIGUEL,Dissolved,Nickel,21.59375,ug/L
+ALISO VIEJO,Dissolved,Nickel,8.944117647058823,ug/L
+LAGUNA HILLS,Total,Nickel,4.05,ug/L
+LAGUNA WOODS,Total,Nickel,4.05,ug/L
+LAGUNA HILLS,Dissolved,Nickel,4.05,ug/L
+LAGUNA WOODS,Dissolved,Nickel,4.05,ug/L
+DANA POINT,Total,Nickel,27.420833333333334,ug/L
+SAN JUAN CAPISTRANO,Total,Nickel,4.87,ug/L
+DANA POINT,Dissolved,Nickel,27.420833333333334,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Nickel,4.87,ug/L
+LAGUNA BEACH,Total,Nickel,3.5625,ug/L
+LAGUNA BEACH,Dissolved,Nickel,3.5625,ug/L
+SAN CLEMENTE,Total,Nickel,161.8,ug/L
+SAN CLEMENTE,Dissolved,Nickel,161.8,ug/L
+MISSION VIEJO,Total,Nitrate+Nitrite Nitrogen,2.2941666666666665,mg/L
+LAKE FOREST,Total,Nitrate+Nitrite Nitrogen,4.324999999999999,mg/L
+RANCHO SANTA MARGARITA,Total,Nitrate+Nitrite Nitrogen,1.4057142857142857,mg/L
+ORANGE CO,Total,Nitrate+Nitrite Nitrogen,3.1373333333333333,mg/L
+LAGUNA NIGUEL,Total,Nitrate+Nitrite Nitrogen,1.7655555555555555,mg/L
+ALISO VIEJO,Total,Nitrate+Nitrite Nitrogen,5.24,mg/L
+LAGUNA HILLS,Total,Nitrate+Nitrite Nitrogen,2.05,mg/L
+LAGUNA WOODS,Total,Nitrate+Nitrite Nitrogen,2.05,mg/L
+DANA POINT,Total,Nitrate+Nitrite Nitrogen,1.7392857142857143,mg/L
+SAN JUAN CAPISTRANO,Total,Nitrate+Nitrite Nitrogen,2.654,mg/L
+LAGUNA BEACH,Total,Nitrate+Nitrite Nitrogen,0.5,mg/L
+SAN CLEMENTE,Total,Nitrate+Nitrite Nitrogen,4.61,mg/L
+MISSION VIEJO,Total,Orthophosphate as P,0.22333333333333336,mg/L
+LAKE FOREST,Total,Orthophosphate as P,0.22875,mg/L
+RANCHO SANTA MARGARITA,Total,Orthophosphate as P,0.24214285714285713,mg/L
+ORANGE CO,Total,Orthophosphate as P,0.23159375000000001,mg/L
+LAGUNA NIGUEL,Total,Orthophosphate as P,0.133625,mg/L
+ALISO VIEJO,Total,Orthophosphate as P,0.2039375,mg/L
+LAGUNA HILLS,Total,Orthophosphate as P,0.042499999999999996,mg/L
+LAGUNA WOODS,Total,Orthophosphate as P,0.042499999999999996,mg/L
+LAGUNA BEACH,Total,Orthophosphate as P,0.079,mg/L
+SAN JUAN CAPISTRANO,Total,Orthophosphate as P,0.11825000000000001,mg/L
+DANA POINT,Total,Orthophosphate as P,0.21416666666666667,mg/L
+SAN CLEMENTE,Total,Orthophosphate as P,0.38625000000000004,mg/L
+MISSION VIEJO,Total,Phenanthrene,2.5,ng/L
+LAKE FOREST,Total,Phenanthrene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Phenanthrene,2.5,ng/L
+ORANGE CO,Total,Phenanthrene,2.5,ng/L
+LAGUNA NIGUEL,Total,Phenanthrene,4.957142857142857,ng/L
+ALISO VIEJO,Total,Phenanthrene,3.881111111111111,ng/L
+LAGUNA HILLS,Total,Phenanthrene,2.5,ng/L
+LAGUNA WOODS,Total,Phenanthrene,2.5,ng/L
+DANA POINT,Total,Phenanthrene,3.295,ng/L
+SAN JUAN CAPISTRANO,Total,Phenanthrene,4.885,ng/L
+SAN CLEMENTE,Total,Phenanthrene,2.5,ng/L
+LAGUNA BEACH,Total,Phenanthrene,2.5,ng/L
+MISSION VIEJO,Total,Phorate,5,ng/L
+LAKE FOREST,Total,Phorate,5,ng/L
+RANCHO SANTA MARGARITA,Total,Phorate,5,ng/L
+ORANGE CO,Total,Phorate,5,ng/L
+LAGUNA NIGUEL,Total,Phorate,5,ng/L
+ALISO VIEJO,Total,Phorate,5,ng/L
+LAGUNA HILLS,Total,Phorate,5,ng/L
+LAGUNA WOODS,Total,Phorate,5,ng/L
+DANA POINT,Total,Phorate,5,ng/L
+SAN JUAN CAPISTRANO,Total,Phorate,5,ng/L
+LAGUNA BEACH,Total,Phorate,5,ng/L
+SAN CLEMENTE,Total,Phorate,5,ng/L
+MISSION VIEJO,Total,Phosphorus as PO4,0.8466666666666667,mg/L
+LAKE FOREST,Total,Phosphorus as PO4,0.9,mg/L
+RANCHO SANTA MARGARITA,Total,Phosphorus as PO4,1.0135714285714286,mg/L
+ORANGE CO,Total,Phosphorus as PO4,0.9833333333333334,mg/L
+LAGUNA NIGUEL,Total,Phosphorus as PO4,0.5925,mg/L
+ALISO VIEJO,Total,Phosphorus as PO4,0.78,mg/L
+LAGUNA HILLS,Total,Phosphorus as PO4,0.2,mg/L
+LAGUNA WOODS,Total,Phosphorus as PO4,0.2,mg/L
+DANA POINT,Total,Phosphorus as PO4,0.6508333333333334,mg/L
+SAN JUAN CAPISTRANO,Total,Phosphorus as PO4,0.62375,mg/L
+LAGUNA BEACH,Total,Phosphorus as PO4,0.3675,mg/L
+SAN CLEMENTE,Total,Phosphorus as PO4,1.32,mg/L
+MISSION VIEJO,Total,Pyrene,2.5,ng/L
+RANCHO SANTA MARGARITA,Total,Pyrene,20.784,ng/L
+ORANGE CO,Total,Pyrene,11.304615384615385,ng/L
+LAGUNA NIGUEL,Total,Pyrene,12.891666666666667,ng/L
+ALISO VIEJO,Total,Pyrene,11.331,ng/L
+LAGUNA HILLS,Total,Pyrene,2.5,ng/L
+LAGUNA WOODS,Total,Pyrene,2.5,ng/L
+LAKE FOREST,Total,Pyrene,2.5,ng/L
+DANA POINT,Total,Pyrene,2.5,ng/L
+SAN CLEMENTE,Total,Pyrene,2.5,ng/L
+SAN JUAN CAPISTRANO,Total,Pyrene,2.5,ng/L
+MISSION VIEJO,Total,Selenium,23.319583333333334,ug/L
+MISSION VIEJO,Dissolved,Selenium,23.319583333333334,ug/L
+LAKE FOREST,Total,Selenium,5.15,ug/L
+LAKE FOREST,Dissolved,Selenium,5.15,ug/L
+RANCHO SANTA MARGARITA,Total,Selenium,6.414642857142857,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Selenium,6.414642857142857,ug/L
+ORANGE CO,Total,Selenium,14.296333333333333,ug/L
+ORANGE CO,Dissolved,Selenium,14.296333333333333,ug/L
+LAGUNA NIGUEL,Total,Selenium,6.816666666666666,ug/L
+ALISO VIEJO,Total,Selenium,13.952777777777778,ug/L
+LAGUNA NIGUEL,Dissolved,Selenium,6.816666666666666,ug/L
+ALISO VIEJO,Dissolved,Selenium,13.952777777777778,ug/L
+LAGUNA HILLS,Total,Selenium,7.2,ug/L
+LAGUNA WOODS,Total,Selenium,7.2,ug/L
+LAGUNA HILLS,Dissolved,Selenium,7.2,ug/L
+LAGUNA WOODS,Dissolved,Selenium,7.2,ug/L
+DANA POINT,Total,Selenium,8.375,ug/L
+SAN JUAN CAPISTRANO,Total,Selenium,11.35,ug/L
+DANA POINT,Dissolved,Selenium,8.375,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Selenium,11.35,ug/L
+LAGUNA BEACH,Total,Selenium,12.0125,ug/L
+LAGUNA BEACH,Dissolved,Selenium,12.0125,ug/L
+SAN CLEMENTE,Total,Selenium,14.91875,ug/L
+SAN CLEMENTE,Dissolved,Selenium,14.91875,ug/L
+MISSION VIEJO,Total,Silver,0.1,ug/L
+MISSION VIEJO,Dissolved,Silver,0.1,ug/L
+LAKE FOREST,Total,Silver,0.1,ug/L
+LAKE FOREST,Dissolved,Silver,0.1,ug/L
+RANCHO SANTA MARGARITA,Total,Silver,0.1,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Silver,0.1,ug/L
+ORANGE CO,Total,Silver,0.1,ug/L
+ORANGE CO,Dissolved,Silver,0.1,ug/L
+LAGUNA NIGUEL,Total,Silver,0.1,ug/L
+ALISO VIEJO,Total,Silver,0.1,ug/L
+LAGUNA NIGUEL,Dissolved,Silver,0.1,ug/L
+ALISO VIEJO,Dissolved,Silver,0.1,ug/L
+LAGUNA HILLS,Total,Silver,0.1,ug/L
+LAGUNA WOODS,Total,Silver,0.1,ug/L
+LAGUNA HILLS,Dissolved,Silver,0.1,ug/L
+LAGUNA WOODS,Dissolved,Silver,0.1,ug/L
+DANA POINT,Total,Silver,0.1,ug/L
+SAN JUAN CAPISTRANO,Total,Silver,0.1,ug/L
+DANA POINT,Dissolved,Silver,0.1,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Silver,0.1,ug/L
+LAGUNA BEACH,Total,Silver,0.1,ug/L
+LAGUNA BEACH,Dissolved,Silver,0.1,ug/L
+SAN CLEMENTE,Total,Silver,0.1,ug/L
+SAN CLEMENTE,Dissolved,Silver,0.1,ug/L
+MISSION VIEJO,Total,Specific Conductivity,3287.5,NA
+LAKE FOREST,Total,Specific Conductivity,2825,NA
+RANCHO SANTA MARGARITA,Total,Specific Conductivity,1978.5714285714287,NA
+ORANGE CO,Total,Specific Conductivity,3184.3333333333335,NA
+LAGUNA NIGUEL,Total,Specific Conductivity,3933.75,NA
+ALISO VIEJO,Total,Specific Conductivity,3001.25,NA
+LAGUNA HILLS,Total,Specific Conductivity,3490,NA
+LAGUNA WOODS,Total,Specific Conductivity,3490,NA
+DANA POINT,Total,Specific Conductivity,4542.5,NA
+SAN JUAN CAPISTRANO,Total,Specific Conductivity,3723.75,NA
+LAGUNA BEACH,Total,Specific Conductivity,9015,NA
+SAN CLEMENTE,Total,Specific Conductivity,4318.75,NA
+MISSION VIEJO,Total,Sulfate as SO4,1006.6666666666666,mg/L
+LAKE FOREST,Total,Sulfate as SO4,602.5,mg/L
+RANCHO SANTA MARGARITA,Total,Sulfate as SO4,443.57142857142856,mg/L
+ORANGE CO,Total,Sulfate as SO4,805,mg/L
+LAGUNA NIGUEL,Total,Sulfate as SO4,1100.625,mg/L
+ALISO VIEJO,Total,Sulfate as SO4,671.25,mg/L
+LAGUNA HILLS,Total,Sulfate as SO4,815,mg/L
+LAGUNA WOODS,Total,Sulfate as SO4,815,mg/L
+DANA POINT,Total,Sulfate as SO4,908.3333333333334,mg/L
+SAN JUAN CAPISTRANO,Total,Sulfate as SO4,888.75,mg/L
+LAGUNA BEACH,Total,Sulfate as SO4,2225,mg/L
+SAN CLEMENTE,Total,Sulfate as SO4,1552.5,mg/L
+MISSION VIEJO,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+LAKE FOREST,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+RANCHO SANTA MARGARITA,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+ORANGE CO,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+LAGUNA NIGUEL,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+ALISO VIEJO,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+LAGUNA HILLS,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+LAGUNA WOODS,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+DANA POINT,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+SAN JUAN CAPISTRANO,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+LAGUNA BEACH,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+SAN CLEMENTE,Total,Tetrachlorvinphos (Stirofos),2,ng/L
+MISSION VIEJO,Total,Thallium,0.1,ug/L
+MISSION VIEJO,Dissolved,Thallium,0.1,ug/L
+LAKE FOREST,Total,Thallium,0.1,ug/L
+LAKE FOREST,Dissolved,Thallium,0.1,ug/L
+RANCHO SANTA MARGARITA,Total,Thallium,0.1,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Thallium,0.1,ug/L
+ORANGE CO,Total,Thallium,0.1067741935483871,ug/L
+ORANGE CO,Dissolved,Thallium,0.1067741935483871,ug/L
+LAGUNA NIGUEL,Total,Thallium,0.1,ug/L
+ALISO VIEJO,Total,Thallium,0.1,ug/L
+LAGUNA NIGUEL,Dissolved,Thallium,0.1,ug/L
+ALISO VIEJO,Dissolved,Thallium,0.1,ug/L
+LAGUNA HILLS,Total,Thallium,0.1,ug/L
+LAGUNA WOODS,Total,Thallium,0.1,ug/L
+LAGUNA HILLS,Dissolved,Thallium,0.1,ug/L
+LAGUNA WOODS,Dissolved,Thallium,0.1,ug/L
+DANA POINT,Total,Thallium,0.1,ug/L
+SAN JUAN CAPISTRANO,Total,Thallium,0.1,ug/L
+DANA POINT,Dissolved,Thallium,0.1,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Thallium,0.1,ug/L
+LAGUNA BEACH,Total,Thallium,0.1,ug/L
+LAGUNA BEACH,Dissolved,Thallium,0.1,ug/L
+SAN CLEMENTE,Total,Thallium,0.12333333333333335,ug/L
+SAN CLEMENTE,Dissolved,Thallium,0.12333333333333335,ug/L
+MISSION VIEJO,Total,TOC,8.808333333333334,mg/L
+LAKE FOREST,Total,TOC,6.199999999999999,mg/L
+RANCHO SANTA MARGARITA,Total,TOC,7.935714285714286,mg/L
+ORANGE CO,Total,TOC,8.113333333333333,mg/L
+LAGUNA NIGUEL,Total,TOC,5.89375,mg/L
+ALISO VIEJO,Total,TOC,5.075,mg/L
+LAGUNA HILLS,Total,TOC,3.3,mg/L
+LAGUNA WOODS,Total,TOC,3.3,mg/L
+DANA POINT,Total,TOC,8.524999999999999,mg/L
+SAN JUAN CAPISTRANO,Total,TOC,6.05,mg/L
+LAGUNA BEACH,Total,TOC,4.6,mg/L
+SAN CLEMENTE,Total,TOC,13.25,mg/L
+MISSION VIEJO,Total,Tokuthion,3,ng/L
+LAKE FOREST,Total,Tokuthion,3,ng/L
+RANCHO SANTA MARGARITA,Total,Tokuthion,3,ng/L
+ORANGE CO,Total,Tokuthion,3,ng/L
+LAGUNA NIGUEL,Total,Tokuthion,3,ng/L
+ALISO VIEJO,Total,Tokuthion,3,ng/L
+LAGUNA HILLS,Total,Tokuthion,3,ng/L
+LAGUNA WOODS,Total,Tokuthion,3,ng/L
+DANA POINT,Total,Tokuthion,3,ng/L
+SAN JUAN CAPISTRANO,Total,Tokuthion,3,ng/L
+LAGUNA BEACH,Total,Tokuthion,3,ng/L
+SAN CLEMENTE,Total,Tokuthion,3,ng/L
+MISSION VIEJO,Total,Total Coliform,50044.444444444445,CFU/100 mL
+LAKE FOREST,Total,Total Coliform,50000,CFU/100 mL
+RANCHO SANTA MARGARITA,Total,Total Coliform,47575,CFU/100 mL
+ORANGE CO,Total,Total Coliform,44197.916666666664,CFU/100 mL
+LAGUNA NIGUEL,Total,Total Coliform,21122.272727272728,CFU/100 mL
+ALISO VIEJO,Total,Total Coliform,54175.454545454544,CFU/100 mL
+LAGUNA HILLS,Total,Total Coliform,63000,CFU/100 mL
+LAGUNA WOODS,Total,Total Coliform,63000,CFU/100 mL
+DANA POINT,Total,Total Coliform,35608.125,CFU/100 mL
+SAN JUAN CAPISTRANO,Total,Total Coliform,23003.75,CFU/100 mL
+LAGUNA BEACH,Total,Total Coliform,18250,CFU/100 mL
+SAN CLEMENTE,Total,Total Coliform,45262.5,CFU/100 mL
+MISSION VIEJO,Total,Total Dissolved Solids (TDS),2483.3333333333335,mg/L
+LAKE FOREST,Total,Total Dissolved Solids (TDS),1925,mg/L
+RANCHO SANTA MARGARITA,Total,Total Dissolved Solids (TDS),1257.142857142857,mg/L
+ORANGE CO,Total,Total Dissolved Solids (TDS),2199.6666666666665,mg/L
+LAGUNA NIGUEL,Total,Total Dissolved Solids (TDS),2781.25,mg/L
+ALISO VIEJO,Total,Total Dissolved Solids (TDS),2005.625,mg/L
+LAGUNA HILLS,Total,Total Dissolved Solids (TDS),2400,mg/L
+LAGUNA WOODS,Total,Total Dissolved Solids (TDS),2400,mg/L
+DANA POINT,Total,Total Dissolved Solids (TDS),2950,mg/L
+SAN JUAN CAPISTRANO,Total,Total Dissolved Solids (TDS),2575,mg/L
+LAGUNA BEACH,Total,Total Dissolved Solids (TDS),6450,mg/L
+SAN CLEMENTE,Total,Total Dissolved Solids (TDS),3437.5,mg/L
+MISSION VIEJO,Total,Total Kjeldahl Nitrogen,1.6233333333333333,mg/L
+LAKE FOREST,Total,Total Kjeldahl Nitrogen,1.64,mg/L
+RANCHO SANTA MARGARITA,Total,Total Kjeldahl Nitrogen,1.355,mg/L
+ORANGE CO,Total,Total Kjeldahl Nitrogen,2.016,mg/L
+LAGUNA NIGUEL,Total,Total Kjeldahl Nitrogen,1.0911111111111111,mg/L
+ALISO VIEJO,Total,Total Kjeldahl Nitrogen,1.2475,mg/L
+LAGUNA HILLS,Total,Total Kjeldahl Nitrogen,0.88,mg/L
+LAGUNA WOODS,Total,Total Kjeldahl Nitrogen,0.88,mg/L
+DANA POINT,Total,Total Kjeldahl Nitrogen,1.475,mg/L
+SAN JUAN CAPISTRANO,Total,Total Kjeldahl Nitrogen,1.685,mg/L
+LAGUNA BEACH,Total,Total Kjeldahl Nitrogen,0.54,mg/L
+SAN CLEMENTE,Total,Total Kjeldahl Nitrogen,1.56375,mg/L
+MISSION VIEJO,Total,Total Suspended Solids,4.65,mg/L
+LAKE FOREST,Total,Total Suspended Solids,5.683333333333334,mg/L
+RANCHO SANTA MARGARITA,Total,Total Suspended Solids,5.988888888888889,mg/L
+ORANGE CO,Total,Total Suspended Solids,8.85625,mg/L
+LAGUNA NIGUEL,Total,Total Suspended Solids,7.4125000000000005,mg/L
+ALISO VIEJO,Total,Total Suspended Solids,11.088888888888889,mg/L
+LAGUNA HILLS,Total,Total Suspended Solids,0.725,mg/L
+LAGUNA WOODS,Total,Total Suspended Solids,0.725,mg/L
+DANA POINT,Total,Total Suspended Solids,5.433333333333334,mg/L
+SAN JUAN CAPISTRANO,Total,Total Suspended Solids,4.875,mg/L
+LAGUNA BEACH,Total,Total Suspended Solids,4.1,mg/L
+SAN CLEMENTE,Total,Total Suspended Solids,12.125,mg/L
+MISSION VIEJO,Total,Toxaphene,12.5,ng/L
+LAKE FOREST,Total,Toxaphene,12.5,ng/L
+RANCHO SANTA MARGARITA,Total,Toxaphene,12.5,ng/L
+ORANGE CO,Total,Toxaphene,12.5,ng/L
+LAGUNA NIGUEL,Total,Toxaphene,12.5,ng/L
+ALISO VIEJO,Total,Toxaphene,12.5,ng/L
+LAGUNA HILLS,Total,Toxaphene,12.5,ng/L
+LAGUNA WOODS,Total,Toxaphene,12.5,ng/L
+DANA POINT,Total,Toxaphene,12.5,ng/L
+SAN JUAN CAPISTRANO,Total,Toxaphene,12.5,ng/L
+LAGUNA BEACH,Total,Toxaphene,12.5,ng/L
+SAN CLEMENTE,Total,Toxaphene,12.5,ng/L
+MISSION VIEJO,Total,trans-Nonachlor,1,ng/L
+LAKE FOREST,Total,trans-Nonachlor,1,ng/L
+RANCHO SANTA MARGARITA,Total,trans-Nonachlor,1,ng/L
+ORANGE CO,Total,trans-Nonachlor,1,ng/L
+LAGUNA NIGUEL,Total,trans-Nonachlor,1,ng/L
+ALISO VIEJO,Total,trans-Nonachlor,1,ng/L
+LAGUNA HILLS,Total,trans-Nonachlor,1,ng/L
+LAGUNA WOODS,Total,trans-Nonachlor,1,ng/L
+DANA POINT,Total,trans-Nonachlor,1,ng/L
+SAN JUAN CAPISTRANO,Total,trans-Nonachlor,1,ng/L
+LAGUNA BEACH,Total,trans-Nonachlor,1,ng/L
+SAN CLEMENTE,Total,trans-Nonachlor,1,ng/L
+MISSION VIEJO,Total,Trichloronate,1,ng/L
+LAKE FOREST,Total,Trichloronate,1,ng/L
+RANCHO SANTA MARGARITA,Total,Trichloronate,1,ng/L
+ORANGE CO,Total,Trichloronate,1,ng/L
+LAGUNA NIGUEL,Total,Trichloronate,1,ng/L
+ALISO VIEJO,Total,Trichloronate,1,ng/L
+LAGUNA HILLS,Total,Trichloronate,1,ng/L
+LAGUNA WOODS,Total,Trichloronate,1,ng/L
+DANA POINT,Total,Trichloronate,1,ng/L
+SAN JUAN CAPISTRANO,Total,Trichloronate,1,ng/L
+LAGUNA BEACH,Total,Trichloronate,1,ng/L
+SAN CLEMENTE,Total,Trichloronate,1,ng/L
+MISSION VIEJO,Total,Volatile Suspended Solids,2.5,mg/L
+LAKE FOREST,Total,Volatile Suspended Solids,3.8666666666666667,mg/L
+RANCHO SANTA MARGARITA,Total,Volatile Suspended Solids,4.011111111111111,mg/L
+ORANGE CO,Total,Volatile Suspended Solids,6.078947368421052,mg/L
+LAGUNA NIGUEL,Total,Volatile Suspended Solids,4.444444444444445,mg/L
+ALISO VIEJO,Total,Volatile Suspended Solids,8,mg/L
+LAGUNA HILLS,Total,Volatile Suspended Solids,2.5,mg/L
+LAGUNA WOODS,Total,Volatile Suspended Solids,2.5,mg/L
+DANA POINT,Total,Volatile Suspended Solids,3.2285714285714286,mg/L
+SAN JUAN CAPISTRANO,Total,Volatile Suspended Solids,3.1,mg/L
+LAGUNA BEACH,Total,Volatile Suspended Solids,3.8000000000000003,mg/L
+SAN CLEMENTE,Total,Volatile Suspended Solids,4.8,mg/L
+MISSION VIEJO,Total,Zinc,11.4,ug/L
+MISSION VIEJO,Dissolved,Zinc,11.4,ug/L
+LAKE FOREST,Total,Zinc,8.2,ug/L
+LAKE FOREST,Dissolved,Zinc,8.2,ug/L
+RANCHO SANTA MARGARITA,Total,Zinc,11.7,ug/L
+RANCHO SANTA MARGARITA,Dissolved,Zinc,11.7,ug/L
+ORANGE CO,Total,Zinc,14.460526315789474,ug/L
+ORANGE CO,Dissolved,Zinc,14.460526315789474,ug/L
+LAGUNA NIGUEL,Total,Zinc,15.545454545454545,ug/L
+ALISO VIEJO,Total,Zinc,16.261904761904763,ug/L
+LAGUNA NIGUEL,Dissolved,Zinc,15.545454545454545,ug/L
+ALISO VIEJO,Dissolved,Zinc,16.261904761904763,ug/L
+LAGUNA HILLS,Total,Zinc,5,ug/L
+LAGUNA WOODS,Total,Zinc,5,ug/L
+LAGUNA HILLS,Dissolved,Zinc,5,ug/L
+LAGUNA WOODS,Dissolved,Zinc,5,ug/L
+DANA POINT,Total,Zinc,17.928571428571427,ug/L
+SAN JUAN CAPISTRANO,Total,Zinc,11.8,ug/L
+DANA POINT,Dissolved,Zinc,17.928571428571427,ug/L
+SAN JUAN CAPISTRANO,Dissolved,Zinc,11.8,ug/L
+LAGUNA BEACH,Total,Zinc,5,ug/L
+LAGUNA BEACH,Dissolved,Zinc,5,ug/L
+SAN CLEMENTE,Total,Zinc,33.166666666666664,ug/L
+SAN CLEMENTE,Dissolved,Zinc,33.166666666666664,ug/L
+DANA POINT,NA,NA,NA,NA
+LAGUNA BEACH,NA,NA,NA,NA
+LAGUNA NIGUEL,NA,NA,NA,NA
+ORANGE CO,NA,NA,NA,NA
+ALISO VIEJO,NA,NA,NA,NA
+LAGUNA WOODS,NA,NA,NA,NA
+IRVINE,NA,NA,NA,NA
+NEWPORT BEACH,NA,NA,NA,NA
+LAKE FOREST,NA,NA,NA,NA
+MISSION VIEJO,NA,NA,NA,NA
+RANCHO SANTA MARGARITA,NA,NA,NA,NA
+LAGUNA HILLS,NA,NA,NA,NA
+SAN JUAN CAPISTRANO,NA,NA,NA,NA
+SAN CLEMENTE,NA,NA,NA,NA

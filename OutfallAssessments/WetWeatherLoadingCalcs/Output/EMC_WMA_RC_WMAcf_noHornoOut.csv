@@ -1,0 +1,73 @@
+EMC_Group,Constituent,Fraction,Units,EMC_WMA_LU
+agriculture,"Copper, Total",Dissolved,mg/L,0.006293604605532637
+agriculture,"Copper, Total",Total,mg/L,0.014510577163338919
+agriculture,Fecal coliforms,Total,CFU/100 mL,874.2875300408374
+agriculture,"Lead, Total",Total,mg/L,6.07787865390168e-4
+agriculture,TN,Total,mg/L,5.524957441593506
+agriculture,TP,Total,mg/L,0.888383384987819
+agriculture,TSS,Total,mg/L,61.59259941300528
+agriculture,"Zinc, Total",Dissolved,mg/L,0.00947963626536678
+agriculture,"Zinc, Total",Total,mg/L,0.04169089609201182
+business,"Copper, Total",Dissolved,mg/L,0.008353138169142413
+business,"Copper, Total",Total,mg/L,0.012119155718978385
+business,Fecal coliforms,Total,CFU/100 mL,4445.138075902403
+business,"Lead, Total",Total,mg/L,6.225874258076625e-4
+business,TN,Total,mg/L,2.9841098581432983
+business,TP,Total,mg/L,0.26691694136598687
+business,TSS,Total,mg/L,17.560766037988316
+business,"Zinc, Total",Dissolved,mg/L,0.04411555088228116
+business,"Zinc, Total",Total,mg/L,0.07030842677532811
+developed open space,"Copper, Total",Dissolved,mg/L,3.310954537412294e-4
+developed open space,"Copper, Total",Total,mg/L,0.0046628191614174535
+developed open space,Fecal coliforms,Total,CFU/100 mL,4929.609002773896
+developed open space,"Lead, Total",Total,mg/L,6.026273190062766e-4
+developed open space,TN,Total,mg/L,3.2558812321981203
+developed open space,TP,Total,mg/L,0.3258662160451091
+developed open space,TSS,Total,mg/L,28.146180044027034
+developed open space,"Zinc, Total",Dissolved,mg/L,0.009758838224096927
+developed open space,"Zinc, Total",Total,mg/L,0.010893188812194041
+highway/arterial,"Copper, Total",Dissolved,mg/L,0.019209993580572054
+highway/arterial,"Copper, Total",Total,mg/L,0.023915387452107067
+highway/arterial,Fecal coliforms,Total,CFU/100 mL,513.617085168723
+highway/arterial,"Lead, Total",Total,mg/L,0.0023777769925583682
+highway/arterial,TN,Total,mg/L,2.7695399911506877
+highway/arterial,TP,Total,mg/L,0.508909722493909
+highway/arterial,TSS,Total,mg/L,15.407110759453612
+highway/arterial,"Zinc, Total",Dissolved,mg/L,0.10833326058677614
+highway/arterial,"Zinc, Total",Total,mg/L,0.13054892150941036
+multi-family,"Copper, Total",Dissolved,mg/L,0.008276669902783694
+multi-family,"Copper, Total",Total,mg/L,0.010404040833651035
+multi-family,Fecal coliforms,Total,CFU/100 mL,4097.086955876656
+multi-family,"Lead, Total",Total,mg/L,5.257841767360829e-4
+multi-family,TN,Total,mg/L,3.731230340977062
+multi-family,TP,Total,mg/L,0.2869382730708
+multi-family,TSS,Total,mg/L,14.579484374567372
+multi-family,"Zinc, Total",Dissolved,mg/L,0.022943222557265205
+multi-family,"Zinc, Total",Total,mg/L,0.045591817082317236
+open space,"Copper, Total",Dissolved,mg/L,3.027006299730717e-4
+open space,"Copper, Total",Total,mg/L,0.003888448721953607
+open space,Fecal coliforms,Total,CFU/100 mL,288.9579653593975
+open space,"Lead, Total",Total,mg/L,6.854686046542823e-4
+open space,TN,Total,mg/L,1.4299143300460437
+open space,TP,Total,mg/L,0.07707833612321974
+open space,TSS,Total,mg/L,43.17964823112511
+open space,"Zinc, Total",Dissolved,mg/L,0.007881753477740372
+open space,"Zinc, Total",Total,mg/L,0.008446963384435393
+single family,"Copper, Total",Dissolved,mg/L,0.008315999880244474
+single family,"Copper, Total",Total,mg/L,0.012302466893309062
+single family,Fecal coliforms,Total,CFU/100 mL,6078.482843636248
+single family,"Lead, Total",Total,mg/L,7.57639821845162e-4
+single family,TN,Total,mg/L,3.1036941064315573
+single family,TP,Total,mg/L,0.34286746698147424
+single family,TSS,Total,mg/L,30.152934667868607
+single family,"Zinc, Total",Dissolved,mg/L,0.015952073442866296
+single family,"Zinc, Total",Total,mg/L,0.046222003741707325
+surface street,"Copper, Total",Dissolved,mg/L,0.010355218250908656
+surface street,"Copper, Total",Total,mg/L,0.014799166644517456
+surface street,Fecal coliforms,Total,CFU/100 mL,4531.581219394384
+surface street,"Lead, Total",Total,mg/L,0.0011626336698642359
+surface street,TN,Total,mg/L,3.1775056268028448
+surface street,TP,Total,mg/L,0.376747612372373
+surface street,TSS,Total,mg/L,27.234910558475317
+surface street,"Zinc, Total",Dissolved,mg/L,0.03155998125532308
+surface street,"Zinc, Total",Total,mg/L,0.06804450963664246

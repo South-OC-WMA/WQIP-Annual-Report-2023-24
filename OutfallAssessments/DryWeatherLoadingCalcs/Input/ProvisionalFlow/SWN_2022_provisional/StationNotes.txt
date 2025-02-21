@@ -1,0 +1,75 @@
+J01-9007-1:    looks ok
+J01-9082-2:  no mean daily discharge 10/7/2021 - 10/11/2021 and 9/1/2022 - 9/6/2022
+J01-9082-3:   no mean daily discharge  10/7/2021 - 10/11/2021, flow is 0 from 7/5/2022 to 10/1/2022
+J01-9082-4:  no mean daily discharge  9/1/2022 - 9/5/2022
+J01-9005-3:  no mean daily discharge 11/27/2021 - 12/31/2021; then readings are questionable; reading 4 cfs - 16cfs
+J01-9364-3:  looks ok
+J04-9249-1:   readings are all too high (app 16 cfs) and are not consistent with field visits.  Remove entire file. 
+J01-9005-1:  looks OK
+J03-9216-1:  looks OK
+J03-9234-6:  looks OK
+J03-9215-3:  a few days with missing mean daily discharge (11/25/2021 - 11/30/2021)
+J03-9368-1:  dry weather readings show mean daily discharge as 0; very small flow observed during field inspections
+J03-9368-2:  looks OK
+J01-9144-1:  looks OK
+J03-9221-1:  looks OK
+J01-9144-4:  a lot of day with missing mean daily discharge (likely because of low flow)  
+J01-9224-1:  looks OK
+J01-9224-2:  no data (vandalized); remove data file for loading calcs
+J01-9992-1:  mean daily discharge questionable (too high) from 3/4/2022 to 5/18/2022, 7/21/2022 to 9/4/2022 (remove for calcs)
+J01-10017-1:  looks OK (very low flow)
+J01-10019-1:  missing mean daily discharge from 9/11/2022 onward
+J01-9008-1:  missing mean daily discharge: 10/1/2021 - 11/9/2021, 7/24/2022 - 10/1/2022
+J01-9131-1:  looks OK
+J05-9800-2:  always dry during dry weather;  data likely affected by vegetation grown.  Remove file from dry weather loading calcs. 
+J06-9362-1:  looks OK
+J06-9079-1:  missing mean daily discharge from 11/11/2021 - 2/3/2022 (a few days here and there in between with mean daily discharge)
+J06-10011-1:  looks OK
+J01-9066-1: very high readings June 20-28
+J01-9066-2:  mean daily discharge looks OK
+J01-9273-1:  looks OK
+J07-9109-4:  no mean daily discharge from 11/15/2021 - 1/21/2022
+J07-9110-2:  only two days with mean daily discharge available 
+J07-9110-3:  looks OK
+J01-9046-2: looks OK
+J01-9349-1:  no rating table, remove file
+J01-10004-1:  looks ok
+J01-9046-1:  looks ok
+J01-9264-1:  Discharge seems too high and there is drift; no measurements because of ponding.  remove file. 
+J01-9377-1: looks ok
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

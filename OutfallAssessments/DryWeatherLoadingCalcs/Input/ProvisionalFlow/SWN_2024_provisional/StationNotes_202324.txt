@@ -1,0 +1,75 @@
+J01-9007-1:  mean daily discharge is reasonable. only about 4 months available. 
+J01-9082-2:  looks ok; mean daily discharge calculated most days
+J01-9082-3:  looks ok; dry outfall; Always dry during field investigations.  Influenced by overgrown vegetation. Remove mean dailys above 0 cfs. 
+J01-9082-4:  mean daily discharge is reasonable.  no mean daily discharge available for only about two months total; data missing 11/15 - 8/20/2024.  
+J01-9005-3:  All mean dailys unreasonable.  Do not use file. 
+J01-9005-1:  Most mean dailys reasonable.  Values tend to be inflated in spring/summer. 
+J01-9364-3:  *no readings available; inspections have shown maintenance is needed to improve access, and pooled or ponded
+J04-9249-1:  **readings are all too high (app 16 cfs) and are not consistent with field visits.  No mean dailys after 3/22/2024.  Remove entire file. 
+J03-9216-1:  **mean daily discharge present, but 10/1/2023 to 3/31/2024 do not align with field visits in dry weather, which measured trickle flow. Remove those mean dailys. 
+J03-9234-6:  mean daily dishcharge calculated most days. looks OK.  No mean dailys   7/6/2024 to 8/21/2024. 
+J03-9215-3:  Only 3 mean dailys available. Values reasonable.  
+J03-9368-1:  Available mean dailys reasonable.  Only about 77 mean dailys available. 
+J03-9368-2:  **Mean daily discharge appears too low. Field measurements show about 0.01 cfs. 
+J01-9144-1:  Mean daily discharges calculated most days.  Values reasonable until 4/19/2024.  Site vandalized.  
+J03-9221-1:  Mean daily discharge calculated most days appear high. 
+J01-9144-4:  Mean dailys OK; no mean dailys after 4/19/2024
+J01-9224-1:  looks OK
+J01-9224-2:  Site repaired on 4/27/2024.  Mean dailys OK. 
+J01-9992-1:  **mean daily discharge questionable (too high) from beyond 6/23/2024. Other values too low.  Don't use file. 
+J01-10017-1:  *Can be affected by sediment.  Readings too high in July.  May be better to move ultrasonic further back in pipe.  
+J01-10019-1: ***NO flow data. Vandalized. 
+J01-9008-1:  ***NO flow data.  Vandalized
+J01-9131-1:  looks ok; mean daily discharge calculated most days, no mean dailys after 5/9/2024.  
+J05-9800-2:  always dry during dry weather;  Only 6 mean dailys available.  
+J06-9362-1/DAIRY_FORK_MOULTON:  ***Vandalized.  No mean daily discharge readings after 1/4/2023. 
+J06-9079-1:  Only 14 mean dailys available.  Results are reasonable.  
+J06-10011-1:  Most mean dailys not available.  Mean dailys July and onward OK.  
+J01-9066-1: Only about 50 mean dailys available.  Available mean dailys look OK> 
+J01-9066-2:  **No mean dailys available. 
+J01-9273-1:  No mean daily discharge available most days.  
+J07-9109-4:  Mean dailys available most days.  Results OK.  
+J07-9110-2:  Available mean dailys OK.  
+J07-9110-3:  Available mean dailys OK.
+J01J-9046-2: Available mean dailys OK until 3/26/2024; then become too high.  
+J01-9349-1:  Available mean dailys OK.  No mean dailys after 5/1/2024.  
+J01-10004-1:  looks ok; no mean dailys after 5/3/2024.  
+J01-9046-1:  Available mean dailys OK.  Not available after 12/12/2023.  
+J01-9264-1:  Mean dailys OK after 3/4/2024.  
+J01-9377-1:  **Most mean daily discharges in 2023 are not available.  Only four mean dailys available. They look OK.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
